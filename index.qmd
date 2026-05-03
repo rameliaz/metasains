@@ -26,7 +26,7 @@ Mahasiswa diasumsikan sudah familiar dengan konsep-konsep dasar metode penelitia
 
 Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 
-1. Mendefinisikan metasains dan membedakannya dari filsafat ilmu dan *science studies*
+1. Mendefinisikan metasains dan membedakannya dari filsafat ilmu dan *psychology of science*
 2. Menjelaskan krisis replikasi dalam psikologi dan menginterpretasikan bukti empirisnya
 3. Mengidentifikasi praktik penelitian bermasalah (*questionable research practices*/QRP) dan mekanisme yang menghasilkannya
 4. Mengevaluasi reformasi *open science* (pra-registrasi, *registered reports*, data terbuka) secara kritis

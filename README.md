@@ -1,27 +1,25 @@
-# Statistik dalam Penelitian Psikologi
+# Metasains dalam Psikologi
 
-Repositori ini menyimpan materi pengajaran untuk mata kuliah **Statistik Lanjut dalam Penelitian Psikologi**.
+Repositori ini menyimpan materi pengajaran untuk mata kuliah **Metasains dalam Psikologi** — sebuah kelas yang mempelajari sains secara ilmiah: bagaimana penelitian psikologi dilakukan, apa yang bisa salah, dan bagaimana kita bisa memperbaikinya.
 
-Website: [rameliaz.github.io/statistik-lanjut](https://rameliaz.github.io/statistik-lanjut)
+**Pengajar:** Rizqy Amelia Zein — Departemen Psikologi, Universitas Airlangga
 
 ## Deskripsi
 
-Materi mencakup 8 modul dari korelasi hingga Confirmatory Factor Analysis (CFA), dengan contoh kasus dan dataset simulasi yang dapat dipraktikkan menggunakan `jamovi`.
+Mata kuliah 14 minggu ini mencakup 10 bagian, mulai dari definisi metasains dan krisis replikasi, hingga praktik penelitian bermasalah, reformasi *open science*, dan metasains kritis. Ditujukan untuk mahasiswa S1 dan S2 psikologi dengan latar belakang metode penelitian dasar.
 
-| Bagian | Topik |
-|--------|-------|
-| 1 | Korelasi |
-| 2 | Regresi Linear (_Ordinary Least Square_) |
-| 3 | Regresi Logistik Binomial |
-| 4 | Analisis ROC |
-| 5 | Pengantar _Latent Variable Modeling_ |
-| 6 | Model Jalur (_Path Model_) |
-| 7 | PCA & _Exploratory Factor Analysis_ |
-| 8 | _Confirmatory Factor Analysis_ (CFA) |
-
-## Dataset
-
-Dataset simulasi tersedia di folder `materials/` dan dapat diunduh langsung dari [laman web workshop](https://rameliaz.github.io/mlm-lme-workshop/).
+| Bagian | Minggu | Topik |
+|--------|--------|-------|
+| 1 | 1–2 | Apa itu Metasains? |
+| 2 | 3–4 | Krisis Replikasi — Apa yang Terjadi? |
+| 3 | 5–6 | Praktik Penelitian Bermasalah (QRP) |
+| 4 | 7 | Ancaman Sistemis terhadap Sains yang Dapat Direproduksi |
+| 5 | 8 | Masalah Pengukuran dan Teori |
+| 6 | 9 | Struktur Insentif dan *Publish or Perish* |
+| 7 | 10–11 | Sains Terbuka dan Reformasi Praktik Penelitian |
+| 8 | 12 | Sains Kolaboratif dan Proyek Many Labs |
+| 9 | 13 | Metasains Kritis — Menguji Si Penguji |
+| 10 | 14 | Sintesis dan Masa Depan Metasains |
 
 ## Lisensi
 
