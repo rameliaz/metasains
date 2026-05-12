@@ -2,7 +2,7 @@
 title: "Metasains dalam Psikologi"
 ---
 
-Laman web ini berisi materi kuliah **Metasains dalam Psikologi** — sebuah kelas yang mempelajari sains secara ilmiah: bagaimana penelitian psikologi dilakukan, apa yang bisa salah, dan bagaimana kita bisa memperbaikinya.
+Laman web ini berisi materi kuliah **Metasains dalam Psikologi**. Metasains merupakan cabang ilmu pengetahuan yang mempelajari sains secara ilmiah: bagaimana penelitian psikologi dilakukan, apa hal-hal yang dapat meningkatkan kredibilitas atau menurunkan kepercayaan pada temuan penelitian psikologi, dan bagaimana mendorong praktik meneliti yang lebih transparan dan bertanggung jawab di kalangan peneliti psikologi.
 
 Materi berlisensi [<i class="fab fa-creative-commons"></i><i class="fa fa-universal-access"></i> BY 4.0](https://creativecommons.org/licenses/by/4.0/). **Materi bebas digunakan kembali namun wajib mengatribusi sumber aslinya**.
 
@@ -13,9 +13,9 @@ Klik *navigation bar* yang mengarah pada PDF materi, kemudian tekan `ctrl` dan `
 
 ## Deskripsi Mata Kuliah
 
-Mata kuliah ini mengkaji **metasains** — studi ilmiah tentang sains itu sendiri. Mahasiswa akan belajar mendiagnosis masalah dalam praktik penelitian psikologi, mengevaluasi reformasi yang diusulkan oleh gerakan *open science*, dan secara kritis menilai asumsi-asumsi yang mendasari metasains itu sendiri.
+Mata kuliah ini mengkaji **metasains**, yang merupakan studi ilmiah tentang sains itu sendiri. Mahasiswa akan belajar mendiagnosis masalah dalam praktik penelitian psikologi, mengevaluasi reformasi yang diusulkan oleh gerakan sains terbuka (*open science*), dan secara kritis menilai asumsi-asumsi yang mendasari metasains itu sendiri.
 
-Mata kuliah ini diasumsikan bahwa mahasiswa sudah memiliki pemahaman dasar tentang metode penelitian psikologi (desain penelitian, pengujian hipotesis, statistik inferensial). Tidak diperlukan latar belakang pemrograman atau analisis data tingkat lanjut.
+Mata kuliah ini diasumsikan bahwa mahasiswa sudah memiliki pemahaman dasar tentang metode penelitian psikologi (desain penelitian, pengujian hipotesis, statistik inferensial). Mahasiswa **tidak harus** memiliki latar belakang keterampilan dalam bahasa pemrograman atau analisis data tingkat lanjut.
 
 ::: {.callout-important}
 #### Prasyarat
@@ -28,8 +28,8 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 
 1. Mendefinisikan metasains dan membedakannya dari filsafat ilmu dan *psychology of science*
 2. Menjelaskan krisis replikasi dalam psikologi dan menginterpretasikan bukti empirisnya
-3. Mengidentifikasi praktik penelitian bermasalah (*questionable research practices*/QRP) dan mekanisme yang menghasilkannya
-4. Mengevaluasi reformasi *open science* (pra-registrasi, *registered reports*, data terbuka) secara kritis
+3. Mengidentifikasi praktik penelitian problematik (*questionable research practices*/QRP) dan mekanisme yang menghasilkannya
+4. Mengevaluasi praktik sains terbuka (pra-registrasi, *registered reports*, data terbuka) secara kritis
 5. Menganalisis struktur insentif akademik dan dampaknya terhadap kualitas penelitian
 6. Menerapkan perspektif metasains kritis untuk menilai klaim-klaim dalam literatur metasains itu sendiri
 
@@ -37,205 +37,206 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 
 ## *Outline* Materi
 
-### Bagian 1️⃣: Apa itu Metasains? (Minggu 1–2)
+### Bagian 1️⃣: Apa itu Metasains? 
 
-Bagian ini memperkenalkan metasains sebagai bidang ilmu yang mempelajari sains secara empiris. Kita akan membedakan tiga jenis metasains — *basic*, *applied*, dan *activist* — serta menelusuri bagaimana krisis replikasi tahun 2010-an melahirkan gerakan metasains modern.
+Bagian ini memperkenalkan metasains sebagai bidang ilmu yang mempelajari sains secara empiris. Kita akan membedakan tiga jenis metasains, yaitu *dasar*, *terapan*, dan *berbasis aktivisme*, serta menelusuri bagaimana krisis replikasi tahun 2010-an melahirkan disiplin ilmu metasains modern.
 
 **Topik-topik:**
 
 * Definisi metasains: studi ilmiah tentang sains itu sendiri
-* Tiga jenis metasains: *basic* (mendeskripsikan), *applied* (menguji intervensi), *activist* (mendorong reformasi)
-* Metasains sebagai persimpangan antara *open science*, *science of science*, dan *methodological activism*
-* Mengapa krisis replikasi lahir sekarang? Konteks historis dan institusional
-* Perbedaan antara metasains dan filsafat ilmu / *science and technology studies* (STS)
+* Tiga jenis metasains: *dasar* (mendeskripsikan problem), *terapan* (menguji proposal reformasi kredibilitas/intervensi), *berbasis aktivisme* (mendorong reformasi melalui gerakan sosial dan kebijakan)
+* Metasains sebagai persimpangan antara sains terbuka, *science of science*, dan *methodological activism*
+* Bagaimana kronologi dan konteks sosio-historis krisis replikasi? 
+* Perbedaan antara metasains dan filsafat ilmu/*science and technology studies* (STS)
 
 **Bacaan wajib:**
 
-* Peterson & Panofsky (2023) — *Metascience as a Scientific Social Movement*
-* Rubin (2025) — *What is Critical Metascience and Why is it Important?*
+* Peterson, D., & Panofsky, A. (2023). Metascience as a scientific social movement. *Minerva, 61*, 147–174. <https://doi.org/10.1007/s11024-023-09490-3>
+* Rubin, M. (2025). What is critical metascience and why is it important? *PsyArXiv.* <https://doi.org/10.31234/osf.io/4tpk8_v2>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 1](slides/bagian-1.html){.btn .btn-primary}
 
 ---
 
-### Bagian 2️⃣: Krisis Replikasi — Apa yang Terjadi? (Minggu 3–4)
+### Bagian 2️⃣: Krisis Replikasi 
 
-Bagian ini menelaah bukti empiris krisis replikasi dalam psikologi. Kita akan membedakan tiga konsep yang sering dicampur adukkan — *replicability*, *reproducibility*, dan *robustness* — lalu mengkaji proyek-proyek replikasi berskala besar sebagai studi kasus.
+Bagian ini menelaah bukti empiris yang menyatakan adanya krisis replikasi dalam psikologi. Kita akan membedakan tiga konsep yang sering dicampur adukkan: coba-ulang (*replicability*), reka-ulang (*reproducibility*), dan keandalan (*robustness*), lalu mengkaji proyek-proyek replikasi berskala besar (*multi-lab replication*) sebagai studi kasus.
 
 **Topik-topik:**
 
-* Membedakan tiga konsep: *replicability* (data berbeda), *reproducibility* (data sama, analisis sama), *robustness* (data sama, analisis berbeda)
-* Open Science Collaboration (2015): hanya ~39% studi psikologi berhasil direplikasi
-* Proyek Many Labs sebagai pendekatan diagnostik sistematis
-* Apa yang berhasil direplikasi dan apa yang tidak? Faktor-faktor penentu
-* Apakah "krisis" ini benar-benar krisis, atau proses koreksi diri yang sehat?
+* Membedakan tiga konsep dasar dalam metasains: coba-ulang (*replicability* - data berbeda), reka-ulang (*reproducibility* - data sama, analisis sama), keandalan (*robustness* - data sama, analisis berbeda)
+* Temuan *Many Labs* 1, Open Science Collaboration (2015): hanya ~39% studi psikologi berhasil dicoba-ulang
+* Studi *Many Labs* sebagai pendekatan diagnostik sistematis
+* Studi apa yang berhasil dicoba-ulang dan apa yang tidak? 
+* Faktor-faktor yang memengaruhi kemampuan coba-ulang
+* Krisis replikasi: Krisis vs. *self-correction*
 
 **Bacaan wajib:**
 
-* Open Science Collaboration (2015) — *Estimating the Reproducibility of Psychological Science*
-* Nosek et al. (2022) — *Replicability, Robustness, and Reproducibility in Psychological Science*
-* Klein et al. (2018) — *Many Labs 2: Investigating Variation in Replicability*
-* Ebersole et al. (2016) — *Many Labs 3* *(bagian terpilih)*
+* Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science, 349*(6251). <https://doi.org/10.1126/science.aac4716>
+* Nosek, B. A., et al. (2022). Replicability, robustness, and reproducibility in psychological science. *Annual Review of Psychology, 73*, 719–748. <https://doi.org/10.1146/annurev-psych-020821-114157>
+* Klein, R. A., et al. (2022). Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement. *Collabra: Psychology, 8*(1). <https://doi.org/10.1525/collabra.28202>
+* Ebersole, C. R., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. *Journal of Experimental Social Psychology, 67*, 68–82. <https://doi.org/10.1016/j.jesp.2015.10.012>
+* Ebersole, C. R., et al. (2020). Many Labs 5: Testing pre-data-collection peer review as an intervention to increase replicability. *Advances in Methods and Practices in Psychological Science, 3*(3), 309–331. <https://doi.org/10.1177/2515245920958687>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 2](slides/bagian-2.html){.btn .btn-primary}
 
 ---
 
-### Bagian 3️⃣: Praktik Penelitian Bermasalah (Minggu 5–6)
+### Bagian 3️⃣: Praktik Penelitian Problematik
 
-Bagian ini membahas *questionable research practices* (QRP) — praktik penelitian yang tidak selalu disengaja, tetapi secara sistematis menggelembungkan *false positive* dalam literatur ilmiah.
+Bagian ini membahas *questionable research practices* (QRP), yaitu praktik penelitian yang tidak selalu disengaja, tetapi secara sistematis menjelaskan fenomena *false positive* dalam literatur ilmiah.
 
 **Topik-topik:**
 
-* Kebebasan peneliti (*researcher degrees of freedom*) sebagai sumber bias
-* *P-hacking*: memanipulasi analisis hingga nilai-*p* < .05
-* *HARKing* (*Hypothesizing After Results are Known*): hipotesis setelah melihat data
+* Fleksibilitas pengambilan keputusan peneliti (*researcher degrees of freedom*) sebagai sumber bias
+* *P-hacking*: memanipulasi analisis data hingga nilai-*p* < .05
+* *HARKing* (*Hypothesizing After Results are Known*)
 * *Selective reporting*: hanya melaporkan hasil yang signifikan
 * Prevalensi QRP: survei dan bukti empiris (John et al., 2012)
-* "Aturan main" ilmu psikologi dan bagaimana insentif membentuk perilaku peneliti
+* "Aturan main" dalam penelitian dan bagaimana insentif membentuk perilaku peneliti
 
 **Bacaan wajib:**
 
-* Simmons et al. (2011) — *False-Positive Psychology*
-* John et al. (2012) — *Measuring the Prevalence of Questionable Research Practices*
-* Wicherts et al. (2016) — *Degrees of Freedom in Planning, Running, Analyzing, and Reporting*
-* Bakker et al. (2012) — *The Rules of the Game Called Psychological Science*
+* Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. *Psychological Science, 22*(11), 1359–1366. <https://doi.org/10.1177/0956797611417632>
+* John, L. K., Loewenstein, G., & Prelec, D. (2012). Measuring the prevalence of questionable research practices with incentives for truth-telling. *Psychological Science, 23*(5), 524–532. <https://doi.org/10.1177/0956797611430953>
+* Wicherts, J. M., et al. (2016). Degrees of freedom in planning, running, analyzing, and reporting psychological studies. *Frontiers in Psychology, 7*, 1832. <https://doi.org/10.3389/fpsyg.2016.01832>
+* Bakker, M., van Dijk, A., & Wicherts, J. M. (2012). The rules of the game called psychological science. *Perspectives on Psychological Science, 7*(6), 543–554. <https://doi.org/10.1177/1745691612459060>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 3](slides/bagian-3.html){.btn .btn-primary}
 
 ---
 
-### Bagian 4️⃣: Ancaman Sistemis terhadap Sains yang Dapat Direproduksi (Minggu 7)
+### Bagian 4️⃣: Ancaman Sistemik terhadap Sains
 
-Bagian ini menerapkan kerangka Munafò et al. (2017) untuk memetakan ancaman terhadap sains yang dapat direproduksi di setiap tahap siklus penelitian — dari generasi hipotesis hingga publikasi.
+Bagian ini menerapkan kerangka Munafò et al. (2017) untuk memetakan ancaman terhadap klaim saintifik di setiap tahap siklus penelitian, mulai dari merumuskan hipotesis hingga mempublikasikan temuan penelitian.
 
 **Topik-topik:**
 
-* Siklus hipotetiko-deduktif dan titik-titik kerentanannya
+* Siklus metode *hypothetico-deductive* dan titik-titik kerentanannya
 * Bias konfirmasi, *hindsight bias*, dan *apophenia* sebagai ancaman kognitif
 * *Statistical power* yang rendah sebagai masalah struktural
-* *Publication bias* dan "laci arsip" (*file drawer problem*)
-* Solusi yang diusulkan: metode, pelaporan, reprodusibilitas, evaluasi, dan insentif
+* *Publication bias* dan *file drawer problem*
+* Solusi yang diusulkan: transparansi metode dan pelaporan, reka-ulang komputasi (*computational reproducibility*), evaluasi terhadap kualitas penelitian, dan sistem insentif di komunitas akademik
 
 **Bacaan wajib:**
 
-* Munafò et al. (2017) — *A Manifesto for Reproducible Science* *(keseluruhan artikel)*
+* Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour, 1*, 0021. <https://doi.org/10.1038/s41562-016-0021>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 4](slides/bagian-4.html){.btn .btn-primary}
 
 ---
 
-### Bagian 5️⃣: Masalah Pengukuran dan Teori (Minggu 8)
+### Bagian 5️⃣: Masalah Pengukuran dan Teori 
 
-Krisis replikasi bukan hanya masalah statistik — di baliknya ada masalah konseptual yang lebih mendasar: konstruk yang tidak terdefinisi dengan jelas dan teori yang terlalu lemah untuk menghasilkan prediksi yang dapat diuji.
+Krisis replikasi bukan hanya masalah metodologi dan statistik. Di baliknya ada masalah konseptual yang lebih mendasar: konstruk psikologi sering tidak terdefinisi dengan jelas dan teori yang terlalu lemah untuk menghasilkan prediksi yang dapat diuji.
 
 **Topik-topik:**
 
-* *Construct validity* dan mengapa pengukuran yang buruk menyembunyikan kegagalan replikasi
-* Jebakan "ganti nama konstruk lama": proliferasi konstruk dalam psikologi
-* *Measurement Schmeasurement*: apa artinya memiliki skala yang valid?
-* Standar teori dalam psikologi: apakah teori kita cukup kuat?
+* *Construct validity* dan mengapa pengukuran yang kurang andal menyebabkan kegagalan coba-ulang
+* Proliferasi konstruk dalam psikologi
+* *Jingle-jangle fallacy*
+* Standar *theory-building* dalam psikologi: apakah teori kita sudah cukup kuat?
 * Meehl dan masalah "teori lunak" (*soft science*)
 
 **Bacaan wajib:**
 
-* Flake & Fried (2020) — *Measurement Schmeasurement*
-* Meehl (2004) — *(bagian terpilih tentang standar teori dan pengujian)*
+* Flake, J. K., & Fried, E. I. (2020). Measurement Schmeasurement: Questionable measurement practices and how to avoid them. *Advances in Methods and Practices in Psychological Science, 3*(4), 456–465. <https://doi.org/10.1177/2515245920952393>
+* Meehl, P. E. (2004). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. *Applied & Preventive Psychology, 11*(1), 1–22. *(Cetak ulang dari artikel asli tahun 1978 di Journal of Consulting and Clinical Psychology, 46*(4), 806–834.) <https://doi.org/10.1016/j.appsy.2004.02.001>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 5](slides/bagian-5.html){.btn .btn-primary}
 
 ---
 
-### Bagian 6️⃣: Struktur Insentif dan Sistem *Publish or Perish* (Minggu 9)
+### Bagian 6️⃣: Struktur Insentif dan Sistem *Publish or Perish* 
 
-Banyak QRP bukan lahir dari niat buruk, melainkan dari tekanan struktural sistem akademik. Bagian ini menganalisis bagaimana insentif karir ilmuwan bertentangan dengan tujuan akumulasi pengetahuan yang akurat.
+Terkadang, praktik penelitian yang problematik dilakukan tanpa niat buruk, melainkan dari tekanan struktural ekosistem akademik. Bagian ini menganalisis bagaimana sistem insentif yang berlaku di komunitas akademik, justru kontraproduktif pada tujuan akumulasi pengetahuan yang akurat.
 
 **Topik-topik:**
 
-* Mengapa "dipublikasikan" tidak sama dengan "benar"
-* Sistem peer review dan bias terhadap hasil positif dan novel
+* Mengapa klaim yang "dipublikasikan di jurnal" tidak selalu "benar"
+* Sistem *peer review* dan bias terhadap hasil positif
 * Tekanan *publish or perish* pada peneliti awal karir
-* Konflik kepentingan: insentif pribadi vs. kebaikan ilmu pengetahuan
-* Strategi reformasi: membuat akurasi bersaing dengan kemudahan publikasi
+* Konflik kepentingan: insentif pribadi vs. kemajuan ilmu pengetahuan
+* Strategi reformasi: akurasi klaim/temuan penelitian vs. kemudahan publikasi
 
 **Bacaan wajib:**
 
-* Nosek et al. (2012) — *Scientific Utopia II: Restructuring Incentives and Practices*
+* Nosek, B. A., Spies, J. R., & Motyl, M. (2012). Scientific Utopia II: Restructuring incentives and practices to promote truth over publishability. *Perspectives on Psychological Science, 7*(6), 615–631. <https://doi.org/10.1177/1745691612459058>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 6](slides/bagian-6.html){.btn .btn-primary}
 
 ---
 
-### Bagian 7️⃣: Sains Terbuka dan Reformasi Praktik Penelitian (Minggu 10–11)
+### Bagian 7️⃣: Sains Terbuka dan Reformasi Praktik Penelitian
 
-Bagian ini mengevaluasi reformasi utama dalam gerakan *open science* — dari pra-registrasi hingga *registered reports* — beserta bukti efektivitasnya.
+Bagian ini mengevaluasi reformasi utama dalam gerakan sains terbuka, mulai dari pra-registrasi hingga *registered reports*, beserta bukti efektivitasnya.
 
 **Topik-topik:**
 
-* Membuka komunikasi ilmiah: *preprint*, data terbuka, materi terbuka
+* Membuka komunikasi ilmiah: *preprint, open data, open materials*
 * Pra-registrasi: mendaftarkan hipotesis dan rencana analisis sebelum mengumpulkan data
-* *Registered Reports*: tinjauan sejawat berbasis protokol, sebelum melihat hasil
-* Standar pelaporan: TOP Guidelines, CONSORT, checklist transparansi
+* *Registered Reports*: tinjauan sejawat berbasis protokol, sebelum melihat temuan penelitian
+* Standar pelaporan: TOP *Guidelines*, CONSORT, *checklist* transparansi
 * *Badges* dan insentif jurnal untuk praktik terbuka
-* Many Labs 5: apakah *pre-data peer review* meningkatkan replikabilitas?
+* Many Labs 5: apakah *pre-data peer review* meningkatkan kemampuan coba-ulang?
 
 **Bacaan wajib:**
 
-* Nosek & Bar-Anan (2012) — *Scientific Utopia I: Opening Scientific Communication*
-* Ioannidis (2014) — *Why Journals Must Review Manuscripts Before Results Are Known*
-* Ebersole et al. (2020) — *Many Labs 5*
+* Nosek, B. A., & Bar-Anan, Y. (2012). Scientific Utopia I: Opening scientific communication. *Psychological Inquiry, 23*(3), 217–243. <https://doi.org/10.1080/1047840X.2012.692215>
+* Ioannidis, J. P. A. (2014). Why journals must review manuscripts before results are known. *Addiction, 110*, 9–13. <https://doi.org/10.1111/add.12438>
+* Ebersole, C. R., et al. (2020). Many Labs 5: Testing pre-data-collection peer review as an intervention to increase replicability. *Advances in Methods and Practices in Psychological Science, 3*(3), 309–331. <https://doi.org/10.1177/2515245920958687>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 7](slides/bagian-7.html){.btn .btn-primary}
 
 ---
 
-### Bagian 8️⃣: Sains Kolaboratif dan Proyek Many Labs (Minggu 12)
+### Bagian 8️⃣: Sains Kolaboratif dan Studi *Many Labs*
 
 Bagian ini mengkaji *team science* dan model penelitian terdistribusi sebagai solusi struktural untuk masalah replikabilitas dan generalisabilitas.
 
 **Topik-topik:**
 
-* *Crowdsourcing* sains: logika di balik replikasi multi-situs
-* Desain Many Labs: mengapa data dari banyak lokasi lebih informatif
-* *Adversarial collaboration* dan analisis data buta (*blind analysis*)
-* Many Labs 4: kegagalan mereplikasi efek *mortality salience*, dengan dan tanpa keterlibatan penulis asli
+* *Crowdsourcing* sains: logika di balik studi *multi-lab replications*
+* Desain *Many Labs*: mengapa data dari banyak lokasi lebih informatif
+* *Adversarial collaboration* dan *blind analysis*
+* *Many Labs* 4: kegagalan mereplikasi efek *mortality salience*, dengan dan tanpa keterlibatan penulis asli
 * *Trade-off*: standardisasi vs. validitas ekologis
 
 **Bacaan wajib:**
 
-* Uhlmann et al. (2019) — *Scientific Utopia III: Crowdsourcing Science*
-* Klein et al. (2022) — *Many Labs 4*
+* Uhlmann, E. L., et al. (2019). Scientific Utopia III: Crowdsourcing science. *Perspectives on Psychological Science, 14*(5), 711–733. <https://doi.org/10.1177/1745691619850561>
+* Moshontz, H., et al. (2018). The Psychological Science Accelerator: Advancing Psychology Through a Distributed Collaborative Network. *Advances in Methods and Practices in Psychological Science, 1*(4), 501-515. <http://journals.sagepub.com/doi/10.1177/2515245918797607>
+* Klein, R. A., et al. (2022). Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement. *Collabra: Psychology, 8*(1). <https://doi.org/10.1525/collabra.28202>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 8](slides/bagian-8.html){.btn .btn-primary}
 
 ---
 
-### Bagian 9️⃣: Metasains Kritis — Menguji Si Penguji (Minggu 13)
+### Bagian 9️⃣: Metasains Kritis: Menguji argumen pengusul reformasi
 
-Bagian ini menerapkan cara berpikir kritis terhadap metasains itu sendiri. Apakah gerakan reformasi *open science* juga memiliki bias, asumsi yang tidak diuji, dan praktik yang bermasalah?
+Bagian ini menerapkan cara berpikir kritis terhadap metasains itu sendiri. Apakah gerakan sains terbuka juga memiliki bias, asumsi yang tidak diuji, dan praktik yang bermasalah?
 
 **Topik-topik:**
 
-* Apa itu metasains kritis? *Meta-meta-science* sebagai bidang
-* *Questionable Metascience Practices* (QMP): 10 praktik yang diidentifikasi Rubin
-  * Menolak kritik diri sendiri, melebih-lebihkan peran replikasi, target replikasi yang tidak spesifik
-  * Metabias, "fast 'n' bropen criticism", devaluasi hasil eksploratori
-* Bahaya gerakan aktivis yang mendominasi metasains: keragaman epistemik berkurang
-* Apakah metasains berada dalam "hard core" Lakatosian yang tidak dapat difalsifikasi?
-* Bagaimana menjadi konsumen metasains yang kritis tanpa menolak reformasi yang berguna
+* Apa itu metasains kritis? *Meta-meta-science* sebagai domain metasains
+* *Questionable Metascience Practices* (QMP)
+* Risiko gerakan berbasis aktivisme yang mendominasi metasains
+* Apakah metasains termasuk dalam "*hard core*" Lakatosian yang tidak dapat difalsifikasi?
+* Bagaimana menjadi peneliti metasains yang kritis dengan tetap mempraktikkan praktik penelitian yang bertanggung jawab
 
 **Bacaan wajib:**
 
-* Rubin (2024) — *Questionable Metascience Practices*
-* Rubin (2025) — *What is Critical Metascience?* *(dibaca ulang dengan perspektif baru)*
+* Rubin, M. (2024). Questionable metascience practices. *Journal of Trial and Error.* <https://doi.org/10.36850/mr4>
+* Rubin, M. (2025). What is critical metascience and why is it important? *PsyArXiv.* <https://doi.org/10.31234/osf.io/4tpk8_v2>
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 9](slides/bagian-9.html){.btn .btn-primary}
 
 ---
 
-### Bagian 🔟: Sintesis dan Masa Depan Metasains (Minggu 14)
+### Bagian 🔟: Sintesis dan Masa Depan Metasains
 
-Bagian penutup ini mengintegrasikan tema-tema kursus, mengevaluasi bukti perubahan budaya dalam psikologi, dan mendiskusikan pertanyaan-pertanyaan terbuka yang belum terjawab.
+Bagian penutup ini mengintegrasikan topik-topik dalam mata kuliah ini, mengevaluasi bukti perubahan budaya meneliti dalam psikologi, dan mendiskusikan pertanyaan-pertanyaan terbuka yang belum sepenuhnya terjawab.
 
 **Topik-topik:**
 
@@ -244,8 +245,6 @@ Bagian penutup ini mengintegrasikan tema-tema kursus, mengevaluasi bukti perubah
 * Metasains dan kepercayaan publik terhadap ilmu pengetahuan
 * Apakah reformasi yang ada sudah cukup, atau perlu perubahan yang lebih radikal?
 * Pertanyaan terbuka: seperti apa ilmu pengetahuan yang sudah direformasi itu?
-
-**Bacaan:** Mahasiswa memilih satu bacaan dari keseluruhan materi untuk direfleksikan secara mendalam dalam diskusi sintesis.
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 10](slides/bagian-10.html){.btn .btn-primary}
 
@@ -279,6 +278,7 @@ Mata kuliah ini diikuti oleh mahasiswa S1 dan S2. Untuk **jurnal refleksi** dan 
 * Klein, R. A., et al. (2022). Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement. *Collabra: Psychology, 8*(1). <https://doi.org/10.1525/collabra.28202>
 * Meehl, P. E. (2004). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. *Applied & Preventive Psychology, 11*(1), 1–22. *(Cetak ulang dari artikel asli tahun 1978 di Journal of Consulting and Clinical Psychology, 46*(4), 806–834.) <https://doi.org/10.1016/j.appsy.2004.02.001>
 * Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour, 1*, 0021. <https://doi.org/10.1038/s41562-016-0021>
+* Moshontz, H., et al. (2018). The Psychological Science Accelerator: Advancing Psychology Through a Distributed Collaborative Network. *Advances in Methods and Practices in Psychological Science, 1*(4), 501-515. <http://journals.sagepub.com/doi/10.1177/2515245918797607>
 * Nosek, B. A., & Bar-Anan, Y. (2012). Scientific Utopia I: Opening scientific communication. *Psychological Inquiry, 23*(3), 217–243. <https://doi.org/10.1080/1047840X.2012.692215>
 * Nosek, B. A., Spies, J. R., & Motyl, M. (2012). Scientific Utopia II: Restructuring incentives and practices to promote truth over publishability. *Perspectives on Psychological Science, 7*(6), 615–631. <https://doi.org/10.1177/1745691612459058>
 * Nosek, B. A., et al. (2022). Replicability, robustness, and reproducibility in psychological science. *Annual Review of Psychology, 73*, 719–748. <https://doi.org/10.1146/annurev-psych-020821-114157>
