@@ -56,7 +56,6 @@ Bagian ini memperkenalkan metasains sebagai bidang ilmu yang mempelajari sains s
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 1](slides/bagian-1.html){.btn .btn-primary}
 
----
 
 ### Bagian 2️⃣: Krisis Replikasi 
 
@@ -81,7 +80,6 @@ Bagian ini menelaah bukti empiris yang menyatakan adanya krisis replikasi dalam 
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 2](slides/bagian-2.html){.btn .btn-primary}
 
----
 
 ### Bagian 3️⃣: Praktik Penelitian Problematik
 
@@ -105,7 +103,6 @@ Bagian ini membahas *questionable research practices* (QRP), yaitu praktik penel
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 3](slides/bagian-3.html){.btn .btn-primary}
 
----
 
 ### Bagian 4️⃣: Ancaman Sistemik terhadap Sains
 
@@ -125,7 +122,6 @@ Bagian ini menerapkan kerangka Munafò et al. (2017) untuk memetakan ancaman ter
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 4](slides/bagian-4.html){.btn .btn-primary}
 
----
 
 ### Bagian 5️⃣: Masalah Pengukuran dan Teori 
 
@@ -146,7 +142,6 @@ Krisis replikasi bukan hanya masalah metodologi dan statistik. Di baliknya ada m
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 5](slides/bagian-5.html){.btn .btn-primary}
 
----
 
 ### Bagian 6️⃣: Struktur Insentif dan Sistem *Publish or Perish* 
 
@@ -166,7 +161,6 @@ Terkadang, praktik penelitian yang problematik dilakukan tanpa niat buruk, melai
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 6](slides/bagian-6.html){.btn .btn-primary}
 
----
 
 ### Bagian 7️⃣: Sains Terbuka dan Reformasi Praktik Penelitian
 
@@ -189,7 +183,6 @@ Bagian ini mengevaluasi reformasi utama dalam gerakan sains terbuka, mulai dari 
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 7](slides/bagian-7.html){.btn .btn-primary}
 
----
 
 ### Bagian 8️⃣: Sains Kolaboratif dan Studi *Many Labs*
 
@@ -211,7 +204,6 @@ Bagian ini mengkaji *team science* dan model penelitian terdistribusi sebagai so
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 8](slides/bagian-8.html){.btn .btn-primary}
 
----
 
 ### Bagian 9️⃣: Metasains Kritis: Menguji argumen pengusul reformasi
 
@@ -232,7 +224,6 @@ Bagian ini menerapkan cara berpikir kritis terhadap metasains itu sendiri. Apaka
 
 [{{< fa file-powerpoint >}} Buka Materi Bagian 9](slides/bagian-9.html){.btn .btn-primary}
 
----
 
 ### Bagian 🔟: Sintesis dan Masa Depan Metasains
 
