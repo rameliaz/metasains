@@ -15,7 +15,7 @@ Klik *navigation bar* yang mengarah pada PDF materi, kemudian tekan `ctrl` dan `
 
 Mata kuliah ini mengkaji **metasains**, yang merupakan studi ilmiah tentang sains itu sendiri. Mahasiswa akan belajar mendiagnosis masalah dalam praktik penelitian psikologi, mengevaluasi reformasi yang diusulkan oleh gerakan sains terbuka (*open science*), dan secara kritis menilai asumsi-asumsi yang mendasari metasains itu sendiri.
 
-Mata kuliah ini diasumsikan bahwa mahasiswa sudah memiliki pemahaman dasar tentang metode penelitian psikologi (desain penelitian, pengujian hipotesis, statistik inferensial). Mahasiswa **tidak harus** memiliki latar belakang keterampilan dalam bahasa pemrograman atau analisis data tingkat lanjut.
+Mata kuliah ini diasumsikan bahwa mahasiswa sudah memiliki pemahaman dasar tentang metode penelitian psikologi (e.g., desain penelitian, pengujian hipotesis, dan statistik inferensial). Mahasiswa **tidak harus** memiliki latar belakang keterampilan dalam bahasa pemrograman atau analisis data tingkat lanjut.
 
 ::: {.callout-important}
 #### Prasyarat
@@ -254,14 +254,15 @@ Bagian penutup ini mengintegrasikan topik-topik dalam mata kuliah ini, mengevalu
 
 | Komponen Penilaian | Bobot | Deskripsi |
 |---|---|---|
-| **Jurnal Refleksi Mingguan** | 20% | Tulisan singkat (~300 kata) yang merespons bacaan setiap pekan secara kritis. Dikumpulkan sebelum kelas dimulai. |
-| **Analisis QRP/QMP** | 20% | Identifikasi dan analisis satu QRP *atau* QMP dalam artikel yang dipublikasikan. Mahasiswa menjelaskan mekanisme, dampak, dan alternatif yang lebih baik. |
-| **Evaluasi Studi Replikasi** | 25% | Evaluasi mendalam terhadap satu studi dari proyek Many Labs (pilihan mahasiswa). Mencakup tinjauan desain, interpretasi hasil, dan implikasi metodologis. |
-| **Makalah Akhir atau Proposal Reformasi** | 35% | Pilihan: **(a)** Makalah kritis tentang debat metasains (mis. apakah pra-registrasi efektif? apakah krisis replikasi sudah diselesaikan?), *atau* **(b)** Proposal reformasi praktik penelitian yang konkret untuk konteks psikologi di Indonesia. Panjang: 2.500–4.000 kata. |
+| **Analisis QRP/QMP** | 30% | Identifikasi dan analisis satu QRP *atau* QMP dalam artikel yang dipublikasikan. Mahasiswa menjelaskan mekanisme, dampak, dan alternatif yang lebih baik. |
+| **Evaluasi Studi Replikasi** | 20% | Evaluasi mendalam terhadap satu studi dari studi *Many Labs* yang dipilih oleh mahasiswa. Mencakup ulasan tentang desain penelitian, interpretasi hasil, dan implikasi metodologis. |
+| **Makalah Akhir atau Proposal Reformasi** | 50% | Pilihan: **(a)** Makalah kritis tentang perdebatan metasains (e.g., apakah pra-registrasi efektif? apakah krisis replikasi sudah lewat/selesai?), *atau* **(b)** Proposal reformasi praktik penelitian yang konkret untuk konteks psikologi di Indonesia. Panjang: 2.500–4.000 kata. |
+
+: {tbl-colwidths="[25,10,65]"}
 
 ::: {.callout-tip}
 #### Panduan untuk mahasiswa S1 dan S2
-Mata kuliah ini diikuti oleh mahasiswa S1 dan S2. Untuk **jurnal refleksi** dan **analisis QRP/QMP**, standar penilaian yang sama berlaku untuk semua mahasiswa. Untuk **makalah akhir**, mahasiswa S2 didorong memilih topik yang lebih kompleks dan mengintegrasikan literatur yang lebih luas, sementara mahasiswa S1 dapat berfokus pada satu isu yang spesifik dan konkret.
+Mata kuliah ini diikuti oleh mahasiswa S1 dan S2. Untuk **analisis QRP/QMP** standar penilaian yang sama berlaku untuk semua mahasiswa. Untuk **makalah akhir**, mahasiswa S2 didorong memilih topik yang lebih kompleks dan mengintegrasikan literatur yang lebih luas, sementara mahasiswa S1 dapat berfokus pada satu isu yang spesifik dan konkret.
 :::
 
 ---
