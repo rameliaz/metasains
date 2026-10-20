@@ -6,16 +6,20 @@ project:
     - img/
     - materials/
     - articles/
+    - _extensions/
   render:
     - index.qmd
-    - slides/bagian-1.qmd
+    - slides/sisj.qmd
 
 website:
   title: "Metasains dalam Psikologi"
+  repo-url: https://github.com/rameliaz/metasains
+  repo-branch: master
+  repo-actions: [edit, source, issue]  
   navbar:
     left:
       - href: https://rameliaz.github.io/
-        icon: house
+        icon: house-heart
         text: "oleh Rizqy Amelia Zein"
       - icon: github
         href: https://github.com/rameliaz/metasains
@@ -41,12 +45,12 @@ website:
         <a class="link-dark me-1" href="https://bsky.app/profile/ameliazein.bsky.social" title="Bluesky" target="_blank" rel="noopener"><i class="fa-brands fa-bluesky"></i></a>
         <a class="link-dark me-1" href="https://discord.com/users/807046335613632555" title="Discord" target="_blank" rel="noopener"><i class="fa-brands fa-discord"></i></a>
       right: |
-        <a class="link-dark me-1" href="https://github.com/rameliaz/mg-sem-workshop"><i class="fa-brands fa-github"></i> Source</a>
+        <a class="link-dark me-1" href="https://github.com/rameliaz/metasains"><i class="fa-brands fa-github"></i> Source</a>
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: sandstone
+      dark: slate
     toc: true
     toc-float: true
     toc-depth: 3
