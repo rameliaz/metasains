@@ -422,7 +422,7 @@ Resep dinilai *reviewer* **sebelum** dimasak. Editor berkomitmen akan menerbitka
 ### Kewajiban data dan kode terbuka
 
 ::: {style="margin-bottom: 1em;"}
-**Dampaknya:** 1️⃣ Setelah jurnal *Cognition* mewajibkan data terbuka, artikel dengan *data availability statement* naik dari 25% menjadi 78% ([Hardwicke dkk., 2018](https://royalsocietypublishing.org/doi/10.1098/rsos.180448)). 2️⃣ Di *The BMJ* dan *PLOS Medicine*, yang mewajibkan penulis untuk membagikan datanya secara terbuka, data tersedia untuk 17 dari 37 uji klinis yang memenuhi kriteria (terbit 2013–2016), tetapi hanya 14 di antaranya yang bisa direka ulang penuh ([Naudet dkk., 2018](https://www.bmj.com/content/360/bmj.k400)). 3️⃣ Dari 204 artikel (dipilih acak) yang diterbitkan jurnal *Science*, yang sejak 2011 mewajibkan data terbuka, hanya 44% artikel yang datanya benar-benar tersedia, dan hanya 26% yang bisa direka ulang ([Stodden dkk., 2018](https://pubmed.ncbi.nlm.nih.gov/29531050/)).
+**Dampaknya:** 1️⃣ Setelah jurnal *Cognition* mewajibkan data terbuka, artikel dengan *data availability statement* naik dari 25% menjadi 78% ([Hardwicke dkk., 2018](https://royalsocietypublishing.org/doi/10.1098/rsos.180448)). 2️⃣ Di *The BMJ* dan *PLOS Medicine*, yang mewajibkan penulis untuk membagikan datanya secara terbuka, data tersedia untuk 17 dari 37 uji klinis yang memenuhi kriteria (terbit 2013–2016), tetapi hanya 14 di antaranya yang bisa direka ulang sepenuhnya ([Naudet dkk., 2018](https://www.bmj.com/content/360/bmj.k400)). 3️⃣ Dari 204 artikel (dipilih acak) yang diterbitkan jurnal *Science*, yang sejak 2011 mewajibkan data terbuka, hanya 44% artikel yang datanya benar-benar tersedia, dan hanya 26% yang bisa direka ulang ([Stodden dkk., 2018](https://pubmed.ncbi.nlm.nih.gov/29531050/)).
 :::
 
 **Namun:** data dan material yang dibagikan belum tentu bisa diverifikasi dan direka ulang.
@@ -527,7 +527,7 @@ Menurut Anda, dari empat aspek yang diacak tersebut, manakah yang punya **kontri
 Ukuran sampel adalah prediktor terkuat yang menjelaskan persepsi jurnalis tentang seberapa besar suatu klaim ilmiah dapat dipercaya.
 :::
 
-![](libs/bottesini.png){fig-align="center" width="50%"}
+![](libs/bottesini.png){fig-align="center" width="40%"}
 
 ::: {style="text-align: center; font-size: 0.5em;"}
 Sumber: [Bottesini dkk. (2023)](https://journals.sagepub.com/doi/10.1177/25152459231183912)
