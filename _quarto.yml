@@ -12,7 +12,7 @@ project:
     - slides/sisj.qmd
 
 website:
-  title: "Metasains dalam Psikologi"
+  title: "Pengantar Metasains"
   repo-url: https://github.com/rameliaz/metasains
   repo-branch: master
   repo-actions: [edit, source, issue]  

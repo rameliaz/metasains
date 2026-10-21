@@ -5,12 +5,14 @@ author: "Rizqy Amelia Zein"
 institute:
   - "Research Data & Methods Team, Center for Advanced Internet Studies (CAIS)"
   - "Departemen Psikologi, Universitas Airlangga"
-event: "SISJ Science Journalism Fellowship 2026"
-date: "2026-10-17"
+event: "Indonesian Science Affairs Fellowship 2026"
+date: "2026-10-21"
+date-format: "D MMMM YYYY"
+lang: id
 format:
   cais-revealjs:
     logo: ../img/Transparent.png
-    footer: "Pengantar Metasains | Zein | SISJ Fellowship 2026"
+    footer: "Perkenalan Metasains | Zein | SISJ Fellowship 2026"
     auto-stretch: false
     chalkboard: true
 execute:
@@ -41,7 +43,21 @@ Sumber: [Universitas Gadjah Mada](https://ugm.ac.id/id/berita/19671-guru-besar-u
 Sumber: [Badan Pengawas Obat dan Makanan](https://www.pom.go.id/berita/badan-pom-serahkan-persetujuan-pelaksanaan-uji-klinik-ivermectin)
 :::
 
-## Dua Kasus "*Scientific Error*" Ketika Pandemi COVID-19 {.columns-slide}
+## Pertanyaan untuk Didiskusikan {.quote-slide}
+
+::: {.quote-bubble}
+> Bayangkan Anda adalah seorang jurnalis yang ditugaskan meliput kedua kabar ini. Waktu dua klaim ini beredar, apa yang Anda cek sebelum menulis berita? Siapa yang Anda telepon untuk minta konfirmasi?
+
+::: {.quote-author}
+Diskusi pembuka, 5–10 menit—[Hasil diskusi dicatat di dokumen kerja](https://docs.google.com/document/d/18FzKAZM-D6p4BZOVHOiWzmU52UxBAgoo/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true)
+:::
+:::
+
+::: {.notes}
+Tampung jawaban peserta apa adanya dan catat di dokumen kerja. Jawaban ini sebaiknya di-*trigger* lagi di Bagian 03, supaya *checklist* terasa sebagai penyempurnaan alur kerja yang sudah mereka miliki.
+:::
+
+## Dua Kasus "*Scientific Error*" ketika Pandemi COVID-19 {.columns-slide}
 
 ::: {.columns-area style="grid-template-columns: repeat(2, 1fr);"}
 ::: {.col-item}
@@ -57,26 +73,12 @@ Klaim Balitbang Kementan: kalung ini membunuh virus corona, "sudah diuji laborat
 
 ### 2021: *ivermectin*
 
-Dipromosikan pejabat dan produsen sebagai terapi COVID-19; [Menteri BUMN](https://www.cnnindonesia.com/ekonomi/20210621185309-92-657419/erick-thohir-obat-terapi-corona-ivermectin-dapat-izin-bpom) sempat menyebutnya sudah berizin edar untuk COVID-19. [BPOM membantah](https://jabar.antaranews.com/berita/283810/bpom-sebut-data-uji-klinik-ivermectin-untuk-pengobatan-covid-19-belum-tersedia): izin edar *ivermectin* hanya untuk penyakit akibat infeksi cacing, dan untuk COVID-19 baru sebatas uji klinik. Produsen Ivermax12 kemudian [meminta maaf](https://kabar24.bisnis.com/read/20210718/15/1419025/produsen-ivermectin-pt-harsen-laboratories-sampaikan-permohonan-maaf-ini-isinya) atas klaim yang berlebihan, dan produksinya dihentikan sementara.
+Dipromosikan pejabat dan produsen sebagai terapi COVID-19; [Menteri BUMN](https://www.cnnindonesia.com/ekonomi/20210621185309-92-657419/erick-thohir-obat-terapi-corona-ivermectin-dapat-izin-bpom) sempat menyebutnya sudah berizin edar untuk COVID-19. [BPOM membantah](https://jabar.antaranews.com/berita/283810/bpom-sebut-data-uji-klinik-ivermectin-untuk-pengobatan-covid-19-belum-tersedia): izin edar *ivermectin* hanya untuk penyakit akibat infeksi cacing, dan untuk COVID-19 baru sebatas uji klinis. Produsen Ivermax12 kemudian [meminta maaf](https://kabar24.bisnis.com/read/20210718/15/1419025/produsen-ivermectin-pt-harsen-laboratories-sampaikan-permohonan-maaf-ini-isinya) atas klaim yang berlebihan, dan produksinya dihentikan sementara.
 :::
 :::
 
 ::: {.callout-warning appearance="simple" .fragment}
 Dalam kedua kasus ini, klarifikasinya baru datang **setelah** klaimnya menyebar luas.
-:::
-
-## Pertanyaan untuk Didiskusikan {.quote-slide}
-
-::: {.quote-bubble}
-> Bayangkan Anda adalah seorang jurnalis yang ditugaskan meliput kedua kabar ini. Waktu dua klaim ini beredar, apa yang Anda cek sebelum menulis berita? Siapa yang Anda telepon untuk minta konfirmasi?
-
-::: {.quote-author}
-Diskusi pembuka, 5-10 menit -- [Hasil diskusi dicatat di dokumen kerja](https://docs.google.com/document/d/18FzKAZM-D6p4BZOVHOiWzmU52UxBAgoo/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true)
-:::
-:::
-
-::: {.notes}
-Tampung jawaban peserta apa adanya dan catat di dokumen kerja. Jawaban ini sebaiknya ditrigger lagi di Bagian 03, supaya *checklist* terasa sebagai penyempurnaan workflow kerja yang mereka sudah miliki.
 :::
 
 ## {.section-slide}
@@ -92,13 +94,13 @@ Krisis Replikasi: Istilah, Bukti dan Cakupannya
 ## Mari Kita Mulai dengan Sebuah *Thought Experiment*
 
 ::: {.lead}
-Anda membaca sebuah temuan menarik di suatu jurnal top dan membayangkan *paper* ini akan Anda tulis menjadi suatu berita.
+Anda membaca sebuah temuan menarik di suatu jurnal top dan membayangkan artikel ilmiah ini akan Anda tulis menjadi suatu berita.
 :::
 
 ::: {.incremental}
 
-- **Pertanyaan 1:** Jika tim lain mencoba ulang *studi yang sama dengan mengambil data baru*, apakah mereka akan menemukan hasil yang sama?
-- **Pertanyaan 2:** Jika Anda menganalisis ulang *data asli dengan script/file analisis asli* dari penelitian tersebut, apakah Anda akan mendapatkan hasil yang sama persis seperti yang dilaporkan dalam *paper* tersebut?
+- **Pertanyaan 1:** Jika tim peneliti lain mencoba ulang *studi yang sama dengan mengambil data baru*, apakah mereka akan menemukan hasil yang sama?
+- **Pertanyaan 2:** Jika tim peneliti lain menganalisis ulang *data asli dengan script/file analisis asli* dari penelitian tersebut, apakah mereka akan mendapatkan hasil yang sama persis seperti yang dilaporkan dalam artikel ilmiah tersebut?
 - Secara intuitif, banyak jurnalis berasumsi jawaban untuk keduanya adalah "*ya, tentu saja! Paper ini, kan, sudah dipublikasikan di jurnal top Q1!*" ([Bottesini dkk., 2023](https://journals.sagepub.com/doi/10.1177/25152459231183912))
 - Selama 15 tahun terakhir, para peneliti benar-benar mengeceknya dan jawabannya... **membuat banyak orang kecewa**.
 
@@ -114,37 +116,37 @@ Berdasarkan [Barba (2018)](https://arxiv.org/abs/1802.03311) dan [The Turing Way
 ::: {.col-item}
 [<i class="fa-solid fa-rotate-right"></i>]{.col-icon}
 
-### Reproducibility (🇮🇩 "*reka ulang*")
+### *Reproducibility* (🇮🇩 "reka ulang")
 
-**Data sama + analisis sama → hasil sama.** Peneliti lain (atau tim peneliti yang sama) menjalankan ulang analisis yang sama, pada data yang sama, dan mendapatkan hasil yang sama persis seperti dilaporkan di artikel ilmiah. *Resep dan bahan yang sama, dimasak ulang.*
+**Data sama + analisis sama → hasil sama.** Peneliti lain (atau tim peneliti yang sama) menjalankan ulang analisis yang sama, pada data yang sama, dan mendapatkan hasil yang sama persis seperti dilaporkan di artikel ilmiah. ***Resep dan bahan yang sama, dimasak ulang.***
 :::
 ::: {.col-item}
 [<i class="fa-solid fa-people-group"></i>]{.col-icon}
 
-### Replicability (🇮🇩 "*coba ulang*")
+### *Replicability* (🇮🇩 "coba ulang")
 
-**Data baru + metode sama → hasil serupa.** Tim peneliti independen mengulang studi tersebut dengan partisipan baru dan menemukan kesimpulan yang sebanding dengan penelitian aslinya. *Resep yang sama, dimasak menggunakan bahan yang baru.*
+**Data baru + metode sama → hasil serupa.** Tim peneliti independen mengulang studi tersebut dengan partisipan baru dan menemukan kesimpulan yang sebanding dengan penelitian aslinya. ***Resep yang sama, dimasak menggunakan bahan yang baru.***
 :::
 ::: {.col-item}
 [<i class="fa-solid fa-lightbulb"></i>]{.col-icon}
 
-### Robustness (🇮🇩 "*keandalan*")
+### *Robustness* (🇮🇩 "keandalan")
 
-**Data sama + analisis baru → hasil sama, atau setidaknya kesimpulan yang serupa.** Temuan penelitian tetap stabil meskipun menggunakan strategi analitis yang berbeda. *Resep dieksekusi dengan bahan yang sama, tetapi dengan teknik memasak yang berbeda.*
+**Data sama + analisis baru → hasil sama, atau setidaknya kesimpulan yang serupa.** Temuan penelitian tetap stabil meskipun menggunakan strategi analitis yang berbeda. ***Resep dieksekusi dengan bahan yang sama, tetapi dengan teknik memasak yang berbeda.***
 :::
 :::
 
-## Psikologi Sebagai *Ground Zero*, 2011
+## Psikologi sebagai *Ground Zero*, 2011
 
 ::: {.incremental}
-- **2011 — Artikel ilmiah tentang *extrasensory perception* dari Daryl Bem**: sebuah jurnal prestisius (Journal of Personality and Social Psychology - JPSP) mempublikasikan bukti bahwa orang bisa *merasakan apa yang akan terjadi di masa depan* ([Bem, 2011](https://psycnet.apa.org/record/2011-01894-001)) dengan menggunakan metode eksperimen dan menguji hipotesisnya dengan tes statistik standar, [dan menimbulkan kontroversi](https://www.nytimes.com/2011/01/06/science/06esp.html). Jika sebuah eksperimen sederhana bisa "membuktikan" hal yang mustahil, lalu untuk apa gunanya melakukan penelitian?
-- [**2011 — Kasus kecurangan akademik Diederik Stapel**](https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html): seorang profesor psikologi sosial yang dulunya dihormati terbukti memalsukan data di puluhan paper yang sudah dipublikasikan.
-- **2011 — "False-Positive Psychology"** ([Simmons, Nelson, & Simonsohn](https://journals.sagepub.com/doi/10.1177/0956797611417632)): menunjukkan bahwa pilihan-pilihan analitis yang kesannya remeh dan biasa, tetapi tidak diungkapkan bisa membuat *apa pun* menjadi signifikan secara statistik. Di *paper* ini, mereka menunjukkan betapa mudahnya "membuktikan" bahwa mendengarkan sebuah lagu yang spesifik ("*When I'm 64*") membuat orang merasa lebih muda.
-- Peristiwa-peristiwa ini memicu pertanyaan besar di komunitas Psikologi: **seberapa banyak klaim ilmiah di literatur Psikologi yang benar-benar bisa dipercaya?**
+- **2011—Artikel ilmiah tentang *extrasensory perception* dari Daryl Bem**: sebuah jurnal prestisius (*Journal of Personality and Social Psychology*, JPSP) memublikasikan bukti bahwa orang bisa *merasakan apa yang akan terjadi di masa depan* ([Bem, 2011](https://psycnet.apa.org/record/2011-01894-001)) dengan menggunakan metode eksperimen dan menguji hipotesisnya dengan tes statistik standar, [dan menimbulkan kontroversi](https://www.nytimes.com/2011/01/06/science/06esp.html). Jika sebuah eksperimen sederhana bisa "membuktikan" hal yang mustahil, lalu untuk apa gunanya melakukan penelitian?
+- [**2011—Kasus kecurangan akademik Diederik Stapel**](https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html): seorang profesor psikologi sosial yang dulunya dihormati terbukti memalsukan data di puluhan *paper* yang sudah dipublikasikan.
+- **2011—"False-Positive Psychology"** ([Simmons dkk., 2011](https://journals.sagepub.com/doi/10.1177/0956797611417632)): menunjukkan bahwa pilihan-pilihan analitis yang kesannya remeh-temeh dan biasa, tetapi tidak diungkapkan, bisa membuat *apa pun* menjadi signifikan secara statistik. Di *paper* ini, mereka menunjukkan betapa mudahnya "membuktikan" bahwa mendengarkan lagu "*When I'm Sixty-Four*" membuat orang **secara harfiah lebih muda** (hampir 1,5 tahun menurut tanggal lahirnya), sebuah klaim yang mustahil.
+- Peristiwa-peristiwa ini memicu pertanyaan besar di komunitas psikologi: **seberapa banyak klaim ilmiah di literatur psikologi yang benar-benar bisa dipercaya?**
 :::
 
 ::: {.callout-tip appearance="simple" .fragment}
-Komunitas Psikologi saat itu memang yang paling dinamis responnya (di media sosial) terhadap krisis replikasi, tetapi **bukan satu-satunya** disiplin ilmu yang memiliki masalah ini.
+Komunitas psikologi saat itu memang yang paling dinamis responsnya (di media sosial) terhadap krisis replikasi, tetapi **bukan satu-satunya** disiplin ilmu yang memiliki masalah ini.
 :::
 
 ## Hasil Coba Ulang
@@ -163,7 +165,7 @@ dari 100 studi **psikologi** ([Open Science Collaboration, 2015](https://www.sci
 ::: {.infographic-item}
 [46%]{.stat}
 
-dari 112 klaim ilmiah (dari 50 eksperimen yang diterbitkan di 23 artikel) di **biologi kanker praklinis** ([Errington dkk., 2021](https://elifesciences.org/articles/71601)). Awalnya merencanakan coba ulang 193 eksperimen dari 53 *paper* dengan *impact factor* yang tinggi (2010–2012), tetapi hanya 50 eksperimen dari 23 *paper* yang bisa dikerjakan.
+dari 112 klaim ilmiah (dari 50 eksperimen yang diterbitkan di 23 artikel) di **biologi kanker praklinis** ([Errington dkk., 2021](https://elifesciences.org/articles/71601)). Awalnya, tim peneliti merencanakan untuk mencoba ulang 193 eksperimen dari 53 artikel dengan *impact factor* yang tinggi (2010–2012), tetapi hanya 50 eksperimen dari 23 artikel yang bisa dikerjakan.
 :::
 ::: {.infographic-item}
 [61%]{.stat}
@@ -173,23 +175,22 @@ dari 18 eksperimen laboratorium **ekonomi** ([Camerer dkk., 2016](https://www.sc
 ::: {.infographic-item}
 [49%]{.stat}
 
-dari 164 *paper* di **12 disiplin** di ilmu sosial dan perilaku ([Tyner, et al., 2026](https://www.nature.com/articles/s41586-025-10078-y))
+dari 164 artikel yang dipilih acak (berisi 274 klaim) yang dicoba ulang dengan data *baru* di **6 disiplin** di ilmu sosial dan perilaku, melalui [*project* SCORE](https://www.cos.io/score). Median *effect size* di studi coba ulang ini turun dari *r* = 0,25 menjadi 0,10 ([Tyner dkk., 2026](https://www.nature.com/articles/s41586-025-10078-y))
 :::
 :::
 :::
 
 ::: {.incremental}
 
-- Bahkan ketika temuannya berhasil dicoba ulang, rata-rata *effect size*nya **hanya sekitar setengah** dari yang dilaporkan pada awalnya (dikenal sebagai "[The Decline Effect](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02874/full)") — SCORE menemukan pola yang sama lagi pada 2026.
-- **SCORE adalah riset coba ulang terbesar sejauh ini**: 865 peneliti menilai 3.900 paper (2009–2018, 62 jurnal, mencakup ekonomi, psikologi, ilmu politik, sosiologi, dan lainnya). Dari 164 artikel yang dipilih acak (berisi 274 klaim) yang dicoba ulang dengan data *baru*, hanya [49% yang menghasilkan efek signifikan dengan pola yang sama](https://www.cos.io/about/news/large-scale-collaboration-releases-new-findings-on-research-credibility). Median *effect size* turun dari *r* = 0.25 menjadi 0.10.
-- Karena pola masalah ini terkonfirmasi dalam skala besar, bahwa apa yang disebut media sebagai **"[krisis replikasi](https://www.nature.com/articles/d41586-026-00955-5)"** memang benar-benar terjadi.
+- Bahkan ketika temuannya berhasil dicoba ulang, rata-rata *effect size*-nya **hanya sekitar setengah** dari yang dilaporkan pada awalnya (dikenal sebagai "[The Decline Effect](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02874/full)")—[*project* SCORE](https://www.forbes.com/sites/michaeltnietzel/2026/04/04/only-about-half-of-social-science-results-can-be-replicated-finds-new-study/) menemukan pola yang sama lagi pada 2026.
+- Karena pola masalah ini terlihat dalam riset dalam skala besar, apa yang disebut media sebagai **"[krisis replikasi](https://www.nature.com/articles/d41586-026-00955-5)"** sepertinya memang benar-benar terjadi.
 
 :::
 
 ## Apa Kata Para Peneliti?
 
 ::: {.lead}
-*Nature* menyurvei 1.576 peneliti dari berbagai disiplin ilmu ([Baker, 2016](https://www.nature.com/articles/533452a)).
+*Nature* menyurvei 1.576 peneliti dari berbagai disiplin ilmu ([Baker, 2016](https://www.nature.com/articles/533452a.pdf)).
 :::
 
 ::: {.infographic}
@@ -197,22 +198,26 @@ dari 164 *paper* di **12 disiplin** di ilmu sosial dan perilaku ([Tyner, et al.,
 ::: {.infographic-item}
 [>70%]{.stat}
 
-pernah gagal mencoba ulang eksperimen peneliti lain
+peneliti bidang kimia dan biologi pernah gagal mencoba ulang eksperimen peneliti lain
 :::
 ::: {.infographic-item}
 [>50%]{.stat}
 
-pernah gagal mencoba ulang eksperimen **mereka sendiri**
+peneliti bidang kimia, biologi, fisika, teknik, dan medis pernah gagal mencoba ulang eksperimen **mereka sendiri**
 :::
 ::: {.infographic-item}
 [~90%]{.stat}
 
-menganggap ada krisis replikasi
+menganggap ada krisis replikasi; dengan rincian 52% menyatakan krisisnya signifikan, dan 38% menyatakan ada *slight crisis*
 :::
 :::
 :::
 
-## Bahkan Direka Ulang Pun Sulit
+::: {.callout-note appearance="simple" .fragment}
+Mayoritas ilmuwan yang berpartisipasi dalam survei ini mengakui bahwa krisis replikasi memang benar-benar terjadi.
+:::
+
+## Bahkan Direka Ulang pun Sulit
 
 ::: {.lead}
 Mari lupakan proses coba ulang yang membutuhkan data baru. Bisakah klaim ilmiah direka ulang dari data dan material aslinya?
@@ -238,7 +243,7 @@ artikel yang memiliki [*badge open data*](https://www.cos.io/initiatives/badges)
 ::: {.infographic-item}
 [54%]{.stat}
 
-dari 143 klaim ilmiah di ilmu sosial dan perilaku bisa direka ulang persis sama dari data dan material riset aslinya ([Miske, dkk., 2026](https://www.nature.com/articles/s41586-026-10203-5))
+dari 143 klaim ilmiah di ilmu sosial dan perilaku bisa direka ulang persis sama dari data dan material riset aslinya ([Miske dkk., 2026](https://www.nature.com/articles/s41586-026-10203-5))
 :::
 :::
 :::
@@ -246,37 +251,46 @@ dari 143 klaim ilmiah di ilmu sosial dan perilaku bisa direka ulang persis sama 
 ## Kesalahan yang "Tampaknya Kecil" dengan Konsekuensi yang Besar
 
 ::: {.incremental}
-- [Reinhart & Rogoff](https://www.nber.org/system/files/working_papers/w15639/w15639.pdf) menerbitkan artikel "*Growth in a Time of Debt*" pada tahun 2010.
-  + Kesimpulannya: negara dengan utang publik di atas 90% PDB tumbuh jauh lebih lambat, rata-rata **−0,1%** per tahun, kemudian dikutip untuk menjustifikasi kebijakan *austerity* di banyak negara setelah krisis 2008, utamanya di [Uni Eropa](https://www.businessinsider.com/austerity-has-damaged-europe-vs-us-gdp-growth-2018-11).
+- [Reinhart dan Rogoff](https://www.nber.org/system/files/working_papers/w15639/w15639.pdf) menerbitkan artikel "*Growth in a Time of Debt*" pada tahun 2010.
+  + Kesimpulannya: negara dengan utang publik di atas 90% PDB tumbuh jauh lebih lambat, rata-rata **−0,1%** per tahun. Kesimpulan ini kemudian dikutip untuk menjustifikasi kebijakan *austerity* di banyak negara setelah krisis 2008, utamanya di [Uni Eropa](https://www.businessinsider.com/austerity-has-damaged-europe-vs-us-gdp-growth-2018-11).
 - Ada [kesalahan di *file* Excel-nya](https://theconversation.com/economists-an-excel-error-and-the-misguided-push-for-austerity-13584), yang baru ketahuan saat seorang mahasiswa pascasarjana mendapat *spreadsheet* aslinya ([Herndon dkk., 2014](https://academic.oup.com/cje/article/38/2/257/1714018)).
-  + Sebagian negara dan data di tahun tertentu dihapus secara selektif, pembobotan negara yang cenderung subjektif, dan kesalahan formula di Excel yang membuang sebagian negara dari rata-rata. 
+  + Ada tiga masalah: sebagian negara dan data di tahun tertentu dihapus secara selektif; mekanisme pembobotan (*weighting*) negara cenderung subjektif; dan kesalahan formula di Excel yang berakibat pada terbuangnya sebagian negara dari rata-rata.
   + Setelah dikoreksi, pertumbuhan rata-rata negara dengan utang di atas 90% PDB adalah sekitar **2,2%**, bukan −0,1%. 
 :::
 
 ::: {.callout-note appearance="simple" .fragment}
-Ini bukan kasus satu-satunya - sekitar separuh artikel ilmiah psikologi diketahui memuat minimal satu informasi statistik yang tidak konsisten ([Nuijten dkk., 2016](https://link.springer.com/article/10.3758/s13428-015-0664-2)).
+Ini bukan kasus satu-satunya—sekitar separuh artikel ilmiah psikologi diketahui memuat minimal satu informasi statistik yang tidak konsisten ([Nuijten dkk., 2016](https://link.springer.com/article/10.3758/s13428-015-0664-2)).
 :::
 
 ## Mengapa Krisis Ini Bisa Terjadi?
 
 ::: {.lead}
-Umumnya, bukan semata-mata karena niat jahat/kecurangan, tetapi respon naluriah manusia yang mengikuti bagaimana sistem insentif bekerja.
+Umumnya, bukan semata-mata karena niat jahat/kecurangan, tetapi karena respons naluriah manusia yang mengikuti bagaimana sistem insentif bekerja.
 :::
 
 ::: {.incremental}
-- *Publication bias*: jurnal cenderung hanya mempublikasi temuan baru yang sesuai prediksi teori, sehingga hasil *null*/negatif cenderung ditolak untuk diterbitkan.
-- *Publish or perish*: karier akademik bergantung dan dihitung dari jumlah publikasi.
-- *Questionable research practices* (QRP): praktik-praktik penelitian yang berada di wilayah abu-abu antara keputusan metodologis yang dibenarkan/sahih dengan pemalsuan data. Di antaranya, *p-hacking*, HARKing, pelaporan selektif ([John dkk., 2012](https://journals.sagepub.com/doi/10.1177/0956797611430953)).
+- *Publication bias*: jurnal cenderung hanya memublikasikan temuan baru yang sesuai prediksi teori, sehingga hasil *null*/negatif cenderung ditolak untuk diterbitkan.
+- *Publish or perish*: karier akademik bergantung pada, dan dihitung dari, jumlah publikasi.
+- *Questionable research practices* (QRP): praktik-praktik penelitian yang berada di wilayah abu-abu antara keputusan metodologis yang dibenarkan/sahih dan pemalsuan data. Di antaranya, *p-hacking*, HARKing, pelaporan selektif ([John dkk., 2012](https://journals.sagepub.com/doi/10.1177/0956797611430953)).
 - *Peer review* belum tentu menjadi jaminan kualitas.
   + *Reviewer* membaca naskah dan jarang mengulang proses analisisnya.
   + Tidak dibayar, dikerjakan di sela pekerjaan lain, biasanya oleh dua atau tiga orang.
-  + Bisa mendeteksi kesalahan yang tampak jelas di naskah, tapi tidak dirancang untuk mendeteksi kesalahan yang mengendap dalam siklus penelitian.
+  + Bisa mendeteksi kesalahan yang tampak jelas di naskah, tetapi tidak dirancang untuk mendeteksi kesalahan yang mengendap dalam siklus penelitian.
 - Tanpa hadirnya niat jahat pun, suatu *dataset* memungkinkan peneliti untuk mengambil berbagai variasi rangkaian keputusan analisis yang sama-sama masuk akal secara metodologis ([Gelman & Loken, 2014](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)).
 :::
 
 ::: {.notes}
-Gelman & Loken menyebut poin terakhir *the garden of forking paths* -- Artinya, ketidakpastian sudah melekat pada realitas yang diteliti.
+Gelman dan Loken menyebut poin terakhir ini sebagai *the garden of forking paths*. Artinya, ketidakpastian sudah melekat pada dataset penelitian.
 :::
+
+## Mengapa Krisis Ini Bisa Terjadi?
+
+::: {.lead}
+Apa kata 1.576 peneliti yang disurvei *Nature* ([Baker, 2016](https://www.nature.com/articles/533452a.pdf))?
+:::
+
+![](libs/causes.png){fig-align="center"}
+
 
 ## Pertanyaan untuk Didiskusikan {.quote-slide}
 
@@ -284,7 +298,7 @@ Gelman & Loken menyebut poin terakhir *the garden of forking paths* -- Artinya, 
 > Setelah Anda mengetahui ada banyak sekali ketidakpastian, masalah, dan kesalahan yang melekat pada cara kerja sains dan ilmuwan, masihkah sains layak dipercaya? 
 
 ::: {.quote-author}
-Diskusi kedua, 5-10 menit -- [Hasil diskusi dicatat di dokumen kerja](https://docs.google.com/document/d/18FzKAZM-D6p4BZOVHOiWzmU52UxBAgoo/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true)
+Diskusi kedua, 5–10 menit—[Hasil diskusi dicatat di dokumen kerja](https://docs.google.com/document/d/18FzKAZM-D6p4BZOVHOiWzmU52UxBAgoo/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true)
 :::
 :::
 
@@ -308,7 +322,7 @@ Cara Sains Mengoreksi Diri
 - Seberapa sering klaim ilmiah bertahan saat diuji ulang peneliti yang lain?
 - Praktik apa yang membuat klaim ilmiah rentan mengalami kekeliruan/kesalahan?
 - Bagaimana mengungkap bias yang melekat pada ilmuwan dan bagaimana mengatasinya?
-- Bagaimana dinamika proses sosial mempengaruhi cara kerja sains (e.g., *peer review*; alokasi sumberdaya seperti *research grant*; sistem rekrutmen, pendidikan & pelatihan, dan tata kelola sumber daya penelitian, dsb.)?
+- Bagaimana dinamika proses sosial memengaruhi cara kerja sains (misalnya *peer review*; alokasi sumber daya seperti *research grant*; sistem rekrutmen, pendidikan dan pelatihan, serta tata kelola sumber daya penelitian)?
 :::
 
 ## Mengapa Metasains Penting?
@@ -335,7 +349,7 @@ Sumber: [Merton (1942)](https://archive.org/details/sociologyofscien0000mert/pag
 Sumber: [Merton (1942)](https://archive.org/details/sociologyofscien0000mert/page/n5/mode/2up). Ilustrasi dibuat dengan GPT-6.
 :::
 
-## Apa yang Membuat Resep Masakan Memungkinkan Di*recook*?
+## Apa yang Membuat Resep Masakan Memungkinkan Di-*recook*?
 
 ![](https://static.wixstatic.com/media/007030_fe930d5b6fe04920af9c3a800f4b2f30~mv2.jpg/v1/crop/x_193,y_0,w_691,h_1012/fill/w_691,h_1007,al_c,q_85,enc_avif,quality_auto/devina.jpg){fig-align="center" width="30%"}
 
@@ -346,14 +360,14 @@ Sumber: [Devina Hermawan Official Website](https://www.devinahermawan.com/home)
 ## Praktik Sains Terbuka dengan Analogi Memasak {.columns-slide}
 
 ::: {.lead}
-Kalau mencari resep di internet, apa yang membuat Anda yakin bisa me*recook* masakah tersebut?
+Kalau mencari resep di internet, apa yang membuat Anda yakin bisa me-*recook* masakan tersebut?
 :::
 
 ::: {.columns-area .fragment}
 ::: {.col-item}
 [<i class="fa-solid fa-file-signature"></i>]{.col-icon}
 
-### *Pre-registration*
+### *Preregistration*
 
 Resep ditulis dan diberi stempel waktu **sebelum** memasak: hipotesis, desain, rencana analisis ([Nosek dkk., 2018](https://www.pnas.org/doi/10.1073/pnas.1708274114)).
 :::
@@ -363,7 +377,7 @@ Resep ditulis dan diberi stempel waktu **sebelum** memasak: hipotesis, desain, r
 
 ### Data dan kode terbuka
 
-Bahan dan takarannya dideskripsikan secara detail dan transparan - tidak ada "resep rahasia", sehingga orang lain bisa memverifikasi klaim ilmiah yang disajikan dalam artikel.
+Bahan dan takarannya dideskripsikan secara detail dan transparan—tidak ada "resep rahasia"—sehingga orang lain bisa memverifikasi klaim ilmiah yang disajikan dalam artikel.
 :::
 
 ::: {.col-item}
@@ -384,22 +398,22 @@ Resep dinilai *reviewer* **sebelum** dimasak. Editor berkomitmen akan menerbitka
 ### *Registered Reports*
 
 ::: {style="margin-bottom: 1em;"}
-**Dampaknya:** hanya 44% RR melaporkan hipotesis yang didukung data, dibanding 96% artikel biasa ([Scheel dkk., 2021](https://journals.sagepub.com/doi/10.1177/25152459211007467)). *Reviewer* menganggap RR memiliki keketatan metolodogis dan secara umum, menghasilkan artikel ilmiah dengan kualitas yang lebih baik daripada artikel ilmiah biasa ([Soderberg dkk., 2021](https://www.nature.com/articles/s41562-021-01142-4)).
+**Dampaknya:** hanya 44% RR melaporkan hipotesis yang didukung data, dibanding 96% artikel biasa ([Scheel dkk., 2021](https://journals.sagepub.com/doi/10.1177/25152459211007467)). *Reviewer* menganggap RR memiliki keketatan metodologis dan, secara umum, menghasilkan artikel ilmiah dengan kualitas yang lebih baik daripada artikel ilmiah biasa ([Soderberg dkk., 2021](https://www.nature.com/articles/s41562-021-01142-4)).
 :::
 
-**Tapi:** jumlahnya masih sedikit, dan tidak semua jenis desain penelitian cocok dengan format ini.
+**Namun:** jumlahnya masih sedikit, dan tidak semua jenis desain penelitian cocok dengan format ini.
 :::
 
 ::: {.col-item}
 [<i class="fa-solid fa-file-signature"></i>]{.col-icon}
 
-### *Pre-registration*
+### *Preregistration*
 
 ::: {style="margin-bottom: 1em;"}
-**Dampaknya:** studi yang di-*preregister* memiliki *statistical power* (i.e., peluang mendeteksi efek, kalau efek tsb. benar-benar ada di populasi) dan memiliki ukuran sampel lebih besar ([van den Akker dkk., 2024](https://link.springer.com/article/10.3758/s13428-023-02277-0)).
+**Dampaknya:** studi yang di-*preregister* lebih sering melaporkan analisis *statistical power* (yaitu peluang mendeteksi efek, kalau efek tersebut benar-benar ada di populasi) dan memiliki ukuran sampel yang lebih besar daripada studi yang tidak di-*preregister* ([van den Akker dkk., 2024](https://link.springer.com/article/10.3758/s13428-023-02277-0)).
 :::
 
-**Tapi:** proporsi hasil positif dan *effect size*-nya tidak berbeda dari studi biasa. Dari 27 studi di *Psychological Science*, 25 menyimpang dari *pre-registration* yang sudah ditulis dan hanya satu yang mengungkapkan semua penyimpangannya ([Claesen dkk., 2021](https://royalsocietypublishing.org/doi/10.1098/rsos.211037)).
+**Namun:** proporsi hasil positif dan *effect size*-nya tidak berbeda dari studi biasa. Dari 27 studi di *Psychological Science*, 25 menyimpang dari *preregistration* yang sudah ditulis dan hanya satu yang mengungkapkan semua penyimpangannya ([Claesen dkk., 2021](https://royalsocietypublishing.org/doi/10.1098/rsos.211037)).
 :::
 
 ::: {.col-item}
@@ -408,27 +422,27 @@ Resep dinilai *reviewer* **sebelum** dimasak. Editor berkomitmen akan menerbitka
 ### Kewajiban data dan kode terbuka
 
 ::: {style="margin-bottom: 1em;"}
-**Dampaknya:** 1️⃣ Setelah jurnal *Cognition* mewajibkan data terbuka, artikel dengan *data availability statement* naik dari 25% menjadi 78% ([Hardwicke dkk., 2018](https://royalsocietypublishing.org/doi/10.1098/rsos.180448)). 2️⃣ Di *The BMJ* dan *PLOS Medicine*, yang mewajibkan penulis untuk membagikan datanya secara terbuka, data uji klinis tersedia untuk 17 dari 37 studi yang dipilih acak, tetapi hanya 14 (dari 17 studi) di antaranya bisa direka ulang penuh ([Naudet dkk., 2018](https://www.bmj.com/content/360/bmj.k400)). 3️⃣ Dari 204 artikel (dipilih acak) yang diterbitkan jurnal *Science*, yang sejak 2011 mewajibkan data terbuka, hanya 44% artikel yang datanya benar-benar tersedia dan 26%nya bisa direka ulang ([Stodden, dkk., 2018](https://pubmed.ncbi.nlm.nih.gov/29531050/)).
+**Dampaknya:** 1️⃣ Setelah jurnal *Cognition* mewajibkan data terbuka, artikel dengan *data availability statement* naik dari 25% menjadi 78% ([Hardwicke dkk., 2018](https://royalsocietypublishing.org/doi/10.1098/rsos.180448)). 2️⃣ Di *The BMJ* dan *PLOS Medicine*, yang mewajibkan penulis untuk membagikan datanya secara terbuka, data tersedia untuk 17 dari 37 uji klinis yang memenuhi kriteria (terbit 2013–2016), tetapi hanya 14 di antaranya yang bisa direka ulang penuh ([Naudet dkk., 2018](https://www.bmj.com/content/360/bmj.k400)). 3️⃣ Dari 204 artikel (dipilih acak) yang diterbitkan jurnal *Science*, yang sejak 2011 mewajibkan data terbuka, hanya 44% artikel yang datanya benar-benar tersedia, dan hanya 26% yang bisa direka ulang ([Stodden dkk., 2018](https://pubmed.ncbi.nlm.nih.gov/29531050/)).
 :::
 
-**Tapi:** data dan material yang dibagikan belum tentu bisa diverifikasi dan direka ulang.
+**Namun:** data dan material yang dibagikan belum tentu bisa diverifikasi dan direka ulang.
 :::
 :::
 
 ::: {.callout-note appearance="simple" .fragment}
-Ketiganya mengubah perilaku ilmuwan, tetapi hanya sejauh adanya keterlibatan yang pihak lain yang **melakukan verifikasi**.
+Ketiganya mengubah perilaku ilmuwan, tetapi hanya sejauh adanya keterlibatan pihak lain yang **melakukan verifikasi**.
 :::
 
 ## Batasan Praktik Sains Terbuka
 
 ::: {.incremental}
 - Praktik sains terbuka membuat kesalahan menjadi *visible* sehingga **memungkinkan untuk dideteksi** ilmuwan lain.
-  + Tetapi, praktik ini tidak didesain untuk mencegah kesalahan yang disertai niat jahat (i.e., kecurangan akademik seperti pemalsuan data, dsb).
-- Praktik sains terbuka berorientasi untuk mengubah perilaku ilmuwan di level individual.
-  + Padahal, penyebab sistemik (e.g., insentif, tata kelola sumber daya manusia, dan sistem publikasi ilmiah) juga punya andil penting.
+  + Tetapi, praktik ini tidak didesain untuk mencegah kesalahan yang disertai niat jahat (yaitu kecurangan akademik, seperti pemalsuan data).
+- Praktik sains terbuka bertujuan mengubah perilaku ilmuwan di tingkat individu.
+  + Padahal, penyebab sistemik (misalnya insentif, tata kelola sumber daya manusia, dan sistem publikasi ilmiah) juga punya andil penting.
 - Praktik ini mendorong ilmuwan untuk lebih transparan, tetapi transparansi hanya bermakna kalau proses verifikasi juga dilakukan.
-  + Insentif untuk inovasi dan koreksi idealnya setara, tetapi realitanya, insentif bagi ilmuwan untuk mengkoreksi kesalahan jauh lebih kecil daripada menghasilkan inovasi.
-  + Sudah mulai ada upaya untuk memperbaiki hal ini (e.g., [CTRL-Z Award](https://centerforscientificintegrity.org/2026/08/04/2026-winners-ctrl-z-award-courage-retracting-own-work/)), tetapi belum menjadi arus utama.
+  + Insentif untuk inovasi dan koreksi idealnya setara, tetapi kenyataannya, insentif bagi ilmuwan untuk mengoreksi kesalahan jauh lebih kecil daripada insentif untuk menghasilkan inovasi.
+  + Sudah mulai ada upaya untuk memperbaiki hal ini (misalnya [CTRL-Z Award](https://centerforscientificintegrity.org/2026/08/04/2026-winners-ctrl-z-award-courage-retracting-own-work/)), tetapi belum menjadi arus utama.
 :::
 
 ## Contoh Kasus: Anomali dalam Data vs. Metadata Artikel {.columns-slide}
@@ -440,11 +454,11 @@ Ketiganya mengubah perilaku ilmuwan, tetapi hanya sejauh adanya keterlibatan yan
 ### Kasus Dan Ariely: anomali di dalam data
 
 ::: {style="margin-bottom: 1em;"}
-**Kasusnya:** Studi 2 dalam Ariely & Wertenbroch (2002), *Psychological Science*, tentang tenggat waktu dan prokrastinasi. Datanya diduga [direkayasa](https://datacolada.org/138).
+**Kasusnya:** Studi 2 dalam Ariely dan Wertenbroch (2002), *Psychological Science*, tentang tenggat waktu dan prokrastinasi. Datanya diduga [direkayasa](https://datacolada.org/138).
 :::
 
 ::: {style="margin-bottom: 1em;"}
-**Cara mengungkapnya:** Data Colada membandingkan *file* dataset asli dengan data replikasi yang gagal. Ditemukan *effect size* sebesar *d* = 2,5, 18 dari 20 peserta dalam satu kondisi punya skor identik (e.g., ditengarai data difabrikasi dengan menduplikasi skor), dan data durasi waktu yang (janggalnya) terlalu spesifik, hampir tidak pernah dibulatkan.
+**Cara mengungkapnya:** Data Colada membandingkan *file dataset* asli dengan data replikasi yang gagal. Ditemukan *effect size* sebesar *d* = 2,5; 18 dari 20 peserta dalam satu kondisi punya skor identik (ditengarai data difabrikasi dengan menduplikasi skor); dan data durasi waktu yang (janggalnya) terlalu spesifik, hampir tidak pernah dibulatkan.
 :::
 
 **Dampak investigasinya:** kedua penulis meminta *paper* diretraksi (ditarik dari penerbitan); editor masih memprosesnya.
@@ -453,10 +467,10 @@ Ketiganya mengubah perilaku ilmuwan, tetapi hanya sejauh adanya keterlibatan yan
 ::: {.col-item}
 [<i class="fa-solid fa-users-viewfinder"></i>]{.col-icon}
 
-### Jaring.id: anomali di jejak kepenulisan (i.e., metadata artikel ilmiah)
+### Jaring.id: anomali di jejak kepenulisan (yaitu metadata artikel ilmiah)
 
 ::: {style="margin-bottom: 1em;"}
-**Kasusnya:** *co-author* fiktif, nama peneliti asing dicatut, dan slot penulis yang dijual *paper mill* di sejumlah kampus Indonesia ([Jaring.id dkk., 2024](https://jaring.id/main-catut-nama-sampai-daur-ulang-artikel-ilmiah/)). Polanya sistematis, terkait dengan "jalan pintas" mengakali syarat kenaikan jabatan.
+**Kasusnya:** *co-author* fiktif, nama peneliti asing dicatut, dan slot penulis yang dijual *paper mill* di sejumlah kampus Indonesia ([Jaring.id dkk., 2024](https://jaring.id/main-catut-nama-sampai-daur-ulang-artikel-ilmiah/)). Polanya sistematis, terkait dengan "jalan pintas" untuk mengakali syarat kenaikan jabatan.
 :::
 
 ::: {style="margin-bottom: 1em;"}
@@ -477,7 +491,7 @@ Kasus pertama terbongkar karena **datanya tersedia** untuk diperiksa ulang, seda
 > Setelah membaca detail kasus Dan Ariely dan investigasi Jaring.id, mengapa butuh waktu jauh lebih lama untuk mengungkap (dugaan) kecurangan akademik yang dilakukan Dan Ariely dibandingkan dengan para ilmuwan Indonesia yang diungkap Jaring.id? 
 
 ::: {.quote-author}
-Diskusi ketiga, 5-10 menit -- [Hasil diskusi dicatat di dokumen kerja](https://docs.google.com/document/d/18FzKAZM-D6p4BZOVHOiWzmU52UxBAgoo/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true)
+Diskusi ketiga, 5–10 menit—[Hasil diskusi dicatat di dokumen kerja](https://docs.google.com/document/d/18FzKAZM-D6p4BZOVHOiWzmU52UxBAgoo/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true)
 :::
 :::
 
@@ -494,13 +508,13 @@ Diskusi ketiga, 5-10 menit -- [Hasil diskusi dicatat di dokumen kerja](https://d
 ## Strategi Apa yang Dipakai Jurnalis Sains?
 
 ::: {.lead}
-[Bottesini dkk. (2023)](https://journals.sagepub.com/doi/10.1177/25152459231183912) melakukan penelitian pada 181 jurnalis sains lewat eksperimen yang hipotesisnya sudah di*pre-register*.
+[Bottesini dkk. (2023)](https://journals.sagepub.com/doi/10.1177/25152459231183912) melakukan penelitian pada 181 jurnalis sains lewat eksperimen yang hipotesisnya sudah di-*preregister*.
 :::
 
 ::: {.incremental}
 - Partisipan menilai delapan ringkasan studi psikologi fiktif.
 - Empat hal diacak: ukuran sampel, keterwakilan sampel, nilai *p*, prestise universitas peneliti.
-- Yang diukur: persepsi partisipan bahwa hasil studi tsb. dapat dipercaya, dan seberapa layak hasil studi tsb. diangkat sebagai berita.
+- Yang diukur: persepsi partisipan bahwa hasil studi tersebut dapat dipercaya, dan seberapa layak hasil studi tersebut diangkat sebagai berita.
 :::
 
 ::: {.callout-note appearance="simple" .fragment}
@@ -520,7 +534,7 @@ Sumber: [Bottesini dkk. (2023)](https://journals.sagepub.com/doi/10.1177/2515245
 :::
 
 ::: {.incremental}
-- Di pertanyaan terbuka, banyak peserta menyebut satu praktik verifikasi yang umum mereka lakukan: **mewawancarai pakar lain yang tidak terlibat dalam studi itu**.
+- Di pertanyaan terbuka, banyak peserta menyebut satu praktik verifikasi yang selalu mereka lakukan: **mewawancarai pakar lain yang tidak terlibat dalam studi itu**.
 - Aspek lain yang disebut berkaitan dengan penilaian jurnalis: prestise jurnal, desain eksperimen vs. penelitian korelasional, status *peer review*, sumber dana, kesesuaian klaim dengan bukti.
 :::
 
@@ -581,7 +595,7 @@ Jalur pertama butuh keterampilan statistik dasar, tetapi jalur kedua cukup denga
 :::
 
 ::: {style="margin-bottom: 1em;"}
-✅ Apakah *effect size* yang dilaporkan wajar atau terlalu besar dibandingkan studi serupa di disiplin ilmu tersebut (Studi 2 Ariely: *d* = 2,5, yang mana terlalu besar untuk studi psikologi pada umumnya)?
+✅ Apakah *effect size* yang dilaporkan wajar atau terlalu besar dibandingkan studi serupa di disiplin ilmu tersebut (Studi 2 Ariely: *d* = 2,5, yang terlalu besar untuk studi psikologi pada umumnya)?
 :::
 
 ✅ Apakah ada data duplikat/kembar atau terlalu rapi di tabel data (Studi 2 Ariely: 18 dari 20 peserta punya data yang sama/duplikat)?
@@ -601,7 +615,7 @@ Jalur pertama butuh keterampilan statistik dasar, tetapi jalur kedua cukup denga
 :::
 
 ::: {style="margin-bottom: 1em;"}
-✅ Apakah ada riwayat retraksi penulis atau jurnalnya di [basis data terbuka](#toolkit-yang-bisa-diakses-bebas)?
+✅ Apakah ada riwayat retraksi penulis atau jurnalnya di [basis data terbuka](#toolkit-yang-bisa-dimanfaatkan)?
 :::
 
 ✅ Kalau ada riwayat retraksi, apa penyebab/alasan retraksinya?
@@ -612,9 +626,9 @@ Jalur pertama butuh keterampilan statistik dasar, tetapi jalur kedua cukup denga
 
 ::: {.content-box}
 - [**Retraction Watch Database**](https://retractiondatabase.org): untuk mengecek riwayat retraksi penulis atau jurnal.
-- [**PubPeer**](https://pubpeer.com): untuk melakukan tinjauan sejawat pasca-publikasi dari peneliti lain, sering digunakan untuk melaporkan kesalahan dalam artikel yang sudah diterbitkan.
-- [**statcheck**](http://statcheck.io): untuk mengecek konsistensi hasil statistik yang dilaporkan.
-- [**imagetwin**](https://imagetwin.ai/): untuk mengecek duplikasi dan manipulasi gambar di artikel penelitian.
+- [**PubPeer**](https://pubpeer.com): untuk melakukan tinjauan sejawat pascapublikasi dari peneliti lain, sering digunakan untuk melaporkan kesalahan dalam artikel yang sudah diterbitkan.
+- [**statcheck**](https://statcheck.io): untuk mengecek konsistensi hasil statistik yang dilaporkan.
+- [**ImageTwin**](https://imagetwin.ai/): untuk mengecek duplikasi dan manipulasi gambar di artikel penelitian.
 - [**Citely**](https://citely.ai): *platform* untuk mengecek otentisitas referensi yang dikutip.
 
 :::
@@ -622,7 +636,7 @@ Jalur pertama butuh keterampilan statistik dasar, tetapi jalur kedua cukup denga
 ## Prestise Jurnal Bukan Jaminan
 
 ::: {.lead}
-Jurnalis di studi [Bottesini dkk. (2023)](https://journals.sagepub.com/doi/10.1177/25152459231183912) tidak melihat prestise universitas sebagai faktor yang mempengaruhi penilaian mereka, tapi banyak yang mengandalkan **prestise jurnal** tempat terbitnya artikel.
+Jurnalis di studi [Bottesini dkk. (2023)](https://journals.sagepub.com/doi/10.1177/25152459231183912) tidak melihat prestise universitas sebagai faktor yang memengaruhi penilaian mereka, tetapi beberapa menyebutkan bahwa **prestise jurnal** tempat terbitnya artikel dapat diandalkan.
 :::
 
 ::: {.incremental}
@@ -630,7 +644,7 @@ Jurnalis di studi [Bottesini dkk. (2023)](https://journals.sagepub.com/doi/10.11
 - Dari 21 eksperimen ilmu sosial di *Nature* dan *Science*, hanya 13 yang berhasil direplikasi, dengan *effect size* rata-rata sekitar separuh dari aslinya ([Camerer dkk., 2018](https://www.nature.com/articles/s41562-018-0399-z)).
   + Padahal, *Nature* dan *Science* adalah dua jurnal yang paling bergengsi di kalangan ilmuwan.
 - *Impact factor* dan kuartil jurnal (Q1–Q4) mengukur rata-rata berapa kali artikel-artikel dalam **jurnal** tersebut dikutip, bukan mutu **artikel** yang diterbitkan. 
-  + Sitasi pun umumnya ditopang oleh sedikit artikel yang sangat ekstrim sering dikutip ([Seglen, 1997](https://doi.org/10.1136/bmj.314.7079.497)).
+  + Sitasi pun umumnya ditopang oleh sedikit artikel yang sangat sering dikutip ([Seglen, 1997](https://doi.org/10.1136/bmj.314.7079.497)).
 - Artikel Dan Ariely terbit di *Psychological Science*, yang dianggap sangat bergengsi di kalangan ilmuwan psikologi; sebagian artikel *paper mill* yang dibongkar Jaring.id terbit di jurnal terindeks Scopus, yang dianggap bergengsi di kalangan ilmuwan Indonesia.
 - Oleh karena itu, beberapa ilmuwan menyebutkan bahwa menggunakan prestise jurnal sebagai indikator kualitas riset adalah bentuk *bad scientific practices* ([Brembs dkk., 2013](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00291/full)).
 :::
@@ -654,22 +668,22 @@ Menulis Liputan tentang "Kesalahan" dalam Sains: Membantu Publik Menakar Keperca
 ::: {.incremental}
 - Mendorong perhatian publik dan mempercepat koreksi literatur ilmiah.
   + [Investigasi Brian Deer di *Sunday Times*](http://archive.today/2025.09.24-144220/https://www.thetimes.com/culture/books/article/andrew-wakefield-interview-mmr-autism-vaccine-brian-deer-b3ftnwmfz) pada tahun 2009 berkontribusi pada retraksi artikel Andrew Wakefield (yang mengklaim keterkaitan vaksin MMR dengan autisme) dari *The Lancet* pada 2010.
-  + [Investigasi Catherine Offord](https://www.the-scientist.com/tag/surgisphere), jurnalis *The Scientist*, mengungkap skandal Surgisphere yang mengklaim efektivitas hydroxychloroquine untuk mencegah risiko kematian akibat COVID-19, yang [diamplifikasi Donald Trump](https://abcnews.com/Health/timeline-tracking-trump-alongside-scientific-developments-hydroxychloroquine/story?id=72170553). Artikelnya [diretraksi *The Lancet*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31528-2/fulltext) bulan Juli 2020. 
-  + [Investigasi Dyna Rochmyaningsih](https://www.sciencemagazinedigital.org/sciencemagazine/27_july_2018/MobilePagedArticle.action?articleId=1412604), yang terbit di *Science* tentang masalah etika [penelitian yang dilakukan pada suku Bajau](https://www.science.org/content/article/indonesian-divers-have-evolved-bigger-spleens-hunt-underwater), memantik diskusi tentang kepastian prosedur administratif dan keadilan epistemik dalam penelitian yang dilakukan peneliti asing dan melibatkan komunitas adat.
+  + [Investigasi Dyna Rochmyaningsih](https://www.sciencemagazinedigital.org/sciencemagazine/27_july_2018/MobilePagedArticle.action?articleId=1412604), yang terbit di *Science* tahun 2018 tentang masalah etika [penelitian yang dilakukan pada suku Bajau](https://www.science.org/content/article/indonesian-divers-have-evolved-bigger-spleens-hunt-underwater), memantik diskusi tentang kepastian prosedur administratif dan keadilan epistemik dalam penelitian yang dilakukan peneliti asing dan melibatkan komunitas adat. [UU No. 11/2019 tentang SISNASIPTEK](https://peraturan.bpk.go.id/Details/117023/uu-no-11-tahun-2019) disahkan setahun setelahnya.  
+  + [Liputan Catherine Offord](https://www.the-scientist.com/tag/surgisphere) (*The Scientist*) dan [investigasi *The Guardian*](https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine) mengungkap skandal data Surgisphere. Artikel di *The Lancet* yang memakai data tersebut melaporkan bahwa *hydroxychloroquine* dikaitkan dengan **peningkatan** risiko kematian pasien COVID-19, dan sempat membuat WHO menghentikan sementara uji klinisnya. Artikel tersebut [diretraksi *The Lancet*](https://doi.org/10.1016/S0140-6736(20)31324-6) pada 4 Juni 2020.
 
 :::
 
-## Peran Jurnalis (dan Komunikator) Sains Sangat Penting
+## Peran Lain Jurnalis (dan Komunikator) Sains
 
 ::: {.lead}
-[Schapals dkk. (2026)](https://doi.org/10.17645/mac.12392) memetakan berbagai aktor yang "mengawasi" sains sebagai *watchdog*, mulai jurnalis sains investigasi sampai [*scientific sleuth*](https://sciencewatchdog.id/2025/10/18/the-rise-of-scientific-sleuths-ensuring-research-integrity/) di [PubPeer](https://pubpeer.com/). Ada banyak peran penting yang tidak bisa dilakukan ilmuwan. 
+[Schapals dkk. (2026)](https://doi.org/10.17645/mac.12392) memetakan berbagai aktor yang "mengawasi" sains sebagai *watchdog*, mulai jurnalis sains investigasi sampai [*scientific sleuth*](https://sciencewatchdog.id/2025/10/18/the-rise-of-scientific-sleuths-ensuring-research-integrity/) di [PubPeer](https://pubpeer.com/). Ada banyak peran penting yang tidak bisa dilakukan ilmuwan.
 :::
 
 ::: {.incremental}
 
 - Menerjemahkan implikasi kesalahan teknis untuk publik: *platform* seperti [PubPeer](https://pubpeer.com/), [statcheck](https://statcheck.io/), dan [ImageTwin](https://imagetwin.ai/) mendeteksi dan mendokumentasikan masalah dan kesalahan, tetapi hanya dipahami terbatas di kalangan ilmuwan.
 - Jurnalis sains memiliki perlindungan hukum dan infrastruktur sosial yang tidak dimiliki *scientific sleuth* atau *whistleblower* perorangan.
-- Memisahkan kritik berbasis bukti dari pihak anti-sains yang juga mengklaim "membongkar" kebohongan ilmuwan.
+- Memisahkan kritik berbasis bukti dari pihak antisains yang juga mengklaim "membongkar" kebohongan ilmuwan.
 - Mengisi celah di negara yang infrastruktur integritas risetnya lemah: [Plagio SOS](https://pluralidadz.com/author/plagiosos/) di Amerika Latin, [India Research Watch](https://irw.co.in/), [Selisik Integritas Akademik](https://theconversation.com/topics/selisik-integritas-akademis-155172) (kolaborasi Jaring.id, Tempo, dan The Conversation Indonesia) dan [ScienceWatchdog](https://sciencewatchdog.id/) di Indonesia.
 :::
 
@@ -687,17 +701,17 @@ Tujuan liputan: pembaca memercayai klaim ilmiah yang proporsional dengan kekuata
 :::
 
 ::: {.callout-note appearance="simple" .fragment}
-Mengungkap kesalahan/kecurangan dalam sains amat diperlukan, mengingat **dana publik**, **kebijakan**, dan **keputusan klinis** yang dapat berdampak luas di masyarakat umumnya dijustifikasi dengan klaim ilmiah. Tetapi pertanyaannya, bagaimana agar kedua risiko di atas diminimalisasi?
+Mengungkap kesalahan/kecurangan dalam sains amat diperlukan, mengingat **dana publik**, **kebijakan**, dan **keputusan klinis**, yang dapat berdampak luas di masyarakat, umumnya dijustifikasi dengan klaim ilmiah. Namun, pertanyaannya: bagaimana agar kedua risiko di atas diminimalkan?
 :::
 
 ::: {.notes}
-Kalau suatu klaim ilmiah memang buktinya lemah, turunnya kepercayaan masyarakat pada temuan spesifik tersebut adalah hasil liputan yang sangat diharapkan. Yang perlu dicegah adalah turunnya kepercayaan malah melebar pada sains secara umum.
+Kalau suatu klaim ilmiah memang buktinya lemah, turunnya kepercayaan masyarakat pada temuan spesifik tersebut merupakan hasil liputan yang sangat diharapkan. Yang perlu dicegah adalah turunnya kepercayaan yang malah merembet ke sains secara umum.
 :::
 
 ## Layak Diberitakan?
 
 ::: {.lead}
-Tidak semua kasus kesalahan/kecurangan/retraksi layak jadi berita. [Charles Piller](https://www.theopennotebook.com/2022/05/31/reporting-on-retractions/) merangkum empat pertanyaan yang dapat diajukan jurnalis untuk menentukan *news value*.
+Tidak semua kasus kesalahan/kecurangan/retraksi layak jadi berita. [Pawar (2022)](https://www.theopennotebook.com/2022/05/31/reporting-on-retractions/) merangkum empat pertanyaan yang lazim diajukan jurnalis untuk menentukan *news value*.
 :::
 
 ::: {.incremental}
@@ -729,31 +743,31 @@ Yang keliru selalu pihak tertentu yang spesifik: peneliti, institusi, jurnal, at
 
 ### Pertimbangkan
 
-- "Studi Ariely & Wertenbroch (2002) di *Psychological Science* menunjukkan…"
+- "Studi Ariely dan Wertenbroch (2002) di *Psychological Science* menunjukkan…"
 - "Data Studi 2 diduga direkayasa; jurnal sedang memproses retraksinya"
 - "Syarat publikasi Scopus untuk kenaikan jabatan mendorong jual-beli slot penulis"
 :::
 :::
 
 ::: {.callout-note appearance="simple" .fragment}
-Dengan menyebut pihak yang spesifik, seperti peneliti, institusi, jurnal, dan kebijakan, maka jelas **siapa yang harus ditagih akuntabilitasnya**.
+Dengan menyebut pihak yang spesifik, seperti peneliti, institusi, jurnal, dan kebijakan, menjadi jelas **di mana letak kesalahannya** dan **siapa yang harus ditagih akuntabilitasnya**.
 :::
 
 
-## Memberitakan Kesalahan Dapat Dibingkai Sebagai Mekanisme Koreksi Diri
+## Memberitakan Kesalahan Dapat Dibingkai sebagai Mekanisme Koreksi Diri
 
 ::: {.incremental}
-- Artikel diretraksi merupakan indikasi bahwa ada proses verifikasi, ada masalah yang diidentifikasi, dan ada respon dari sistem koreksi diri ini.
-  + Tetapi, memang respons dari sistem seringkali lambat: artikel Andrew Wakefield terbit pada tahun 1998, tetapi baru ditarik *The Lancet* pada tahun 2010.
+- Retraksi artikel merupakan indikasi bahwa ada proses verifikasi, ada masalah yang diidentifikasi, dan ada respons dari sistem koreksi diri ini.
+  + Tetapi, memang respons dari sistem **sering kali lambat**: artikel Andrew Wakefield terbit pada tahun 1998, tetapi [baru diretraksi sepenuhnya oleh *The Lancet* pada tahun 2010](https://www.bmj.com/content/342/bmj.c7001.long).
 - Jarangnya kejadian retraksi terjadi di suatu bidang ilmu belum tentu kabar baik: bisa jadi kesalahannya tetap ada, tetapi tidak ada pihak yang memeriksa dan menemukannya.
-- Perlu kah menyebutkan nama pakar/pihak independen yang menemukan/memverifikasi kesalahannya dalam liputan?
-  + Sebut nama pemeriksa/verifikatornya hanya dengan persetujuan mereka, karena sebagian lebih memilih bekerja anonim karena posisi/status pekerjaannya cenderung rentan.
+- Perlukah menyebutkan nama pakar/pihak independen yang menemukan/memverifikasi kesalahannya dalam liputan?
+  + Sebut nama pemeriksa/verifikatornya hanya dengan persetujuan mereka, karena sebagian lebih memilih bekerja anonim akibat posisi/status pekerjaannya yang cenderung rentan.
 :::
 
 ::: {.notes}
-Menurut [Fanelli (2013)](https://doi.org/10.1371/journal.pmed.1001563), naiknya jumlah *retraction* lebih mungkin mencerminkan deteksi yang membaik daripada kecurangan yang bertambah. Tapi koreksi diri tidak terjadi dengan sendirinya. [Vazire & Holcombe (2022)](https://doi.org/10.1177/10892680211033912) menyarankan untuk melihat tanda yang bisa diamati, misalnya transparansi proses riset dan *peer review* serta upaya aktif mendeteksi kesalahan.
+Menurut [Fanelli (2013)](https://doi.org/10.1371/journal.pmed.1001563), naiknya jumlah retraksi lebih mungkin mencerminkan deteksi yang membaik daripada kecurangan yang bertambah. Namun, koreksi diri tidak terjadi dengan sendirinya. [Vazire dan Holcombe (2022)](https://doi.org/10.1177/10892680211033912) menyarankan untuk melihat tanda yang bisa diamati, misalnya transparansi proses riset dan *peer review* serta upaya aktif mendeteksi kesalahan.
 
-Artikel yang mendapat atensi tinggi kemudian ditarik umumnya lebih banyak diberitakan pada saat dipublikasi daripada pengumuman retraksinya ([Serghiou dkk., 2021](https://doi.org/10.1371/journal.pone.0248625)). Liputan tentang retraksi dapat menutup celah ini.
+Artikel yang mendapat atensi tinggi, lalu ditarik, umumnya lebih banyak diberitakan saat dipublikasikan daripada saat retraksinya diumumkan ([Serghiou dkk., 2021](https://doi.org/10.1371/journal.pone.0248625)). Liputan tentang retraksi dapat menutup celah ini.
 
 :::
 
@@ -765,18 +779,18 @@ Kelima jenis kasus ini perlu dibedakan dan dideskripsikan secara eksplisit, agar
 
 ::: {.content-box}
 - **Fabrikasi/falsifikasi data**: data dikarang atau dimanipulasi dengan sengaja disertai niat jahat, tetapi ini kasus yang relatif jarang terjadi.
-- **Kecurangan publikasi**: jual-beli slot penulis, *paper mill*, penulis fiktif, plagiat, publikasi ganda oleh penulis; di Indonesia, kasusnya lumayan sering, dan umumnya digerakkan oleh motivasi untuk [mencari jalan pintas](https://theconversation.com/efek-kobra-dosen-indonesia-terobsesi-pada-indeks-scopus-dan-praktik-tercela-menuju-universitas-kelas-dunia-105808) meraih insentif.
+- **Kecurangan publikasi**: jual-beli slot penulis, *paper mill*, penulis fiktif, plagiat, publikasi ganda oleh penulis; di Indonesia, kasusnya lumayan sering, dan umumnya digerakkan oleh motivasi untuk [mencari jalan pintas](https://theconversation.com/efek-kobra-dosen-indonesia-terobsesi-pada-indeks-scopus-dan-praktik-tercela-menuju-universitas-kelas-dunia-105808) untuk meraih insentif.
 - ***Questionable Research Practice* (QRP)**: jalan pintas metodologis yang berada di wilayah abu-abu, bisa jadi tanpa disertai niat jahat.
 - ***Honest error***: salah ketik, salah prosedur, salah hitung; bisa terjadi pada peneliti yang sangat hati-hati.
 - **Retraksi tanpa indikasi kecurangan akademik**: artikel terbit dua kali karena kesalahan penerbit, ada masalah pada metadata artikel.
 
-Kalau ragu, tanyakan: apa alasan resmi retraksinya ke redaksi jurnal, dan siapa yang mengajukannya?
+Kalau ragu, tanyakan ke redaksi jurnal: apa alasan resmi retraksinya, dan siapa yang mengajukannya?
 :::
 
 ::: {.notes}
 Istilah resmi di [Permendikbudristek 39/2021](https://www.peraturan.go.id/files/bn1363-2021.pdf) Pasal 9: fabrikasi, falsifikasi, plagiat, kepengarangan yang tidak sah, konflik kepentingan, dan pengajuan jamak. Pakai istilah ini kalau menulis tentang kasus di kampus Indonesia.
 
-Perlu diketahui bahwa data [Fang dkk. (2012)](https://doi.org/10.1073/pnas.1212247109) menunjukkan bahwa 67.4% *retraction* di bidang biomedis terkait dengan *misconduct* dan hanya sekitar seperlima karena *honest error*. Selalu cek alasan retraksi untuk setiap kasus.
+Perlu diketahui bahwa data [Fang dkk. (2012)](https://doi.org/10.1073/pnas.1212247109) menunjukkan bahwa 67,4% retraksi di bidang biomedis terkait dengan kecurangan akademik dan hanya sekitar seperlima karena *honest error*. Selalu cek alasan retraksi untuk setiap kasus.
 :::
 
 ## Selalu Sampaikan Angka Penyebutnya
@@ -801,26 +815,26 @@ dari 10.000 retraksi itu berasal dari satu penerbit (Hindawi), sebagian besar da
 :::
 
 ::: source
-Sumber: [Van Noorden (2023)](https://doi.org/10.1038/d41586-023-03974-8), *Nature*, 624, 479–481.
+Sumber: [Van Noorden (2023)](https://doi.org/10.1038/d41586-023-03974-8), *Nature, 624*, 479–481.
 :::
 
 ::: {.notes}
 
-Angka 0,2% membuat "rekor 10.000" tidak semengerikan kedengarannya, tetapi tingkat retraksi juga naik lebih dari tiga kali lipat dalam satu dekade, lebih cepat dari pertumbuhan jumlah artikel. Para *sleuth* menyebut 50.000 retraksi yang tercatat hanya puncak gunung es; produk *paper mill* diperkirakan ratusan ribu.
+Angka 0,2% membuat "rekor 10.000" tidak semengerikan kedengarannya, tetapi tingkat retraksi juga naik lebih dari tiga kali lipat dalam satu dekade, lebih cepat daripada pertumbuhan jumlah artikel. Para *sleuth* menyebut 50.000 retraksi yang tercatat hanya puncak gunung es; produk *paper mill* diperkirakan ratusan ribu.
 
-Perbandingan antarnegara juga butuh penyebut: di antara negara dengan lebih dari 100.000 artikel dalam dua dekade, tingkat retraksi tertinggi ada di Arab Saudi (30.6 per 10.000 artikel), Pakistan (28.1), Rusia, dan Tiongkok. Malaysia 17.2.
+Perbandingan antarnegara juga butuh penyebut: di antara negara dengan lebih dari 100.000 artikel dalam dua dekade, tingkat retraksi tertinggi ada di Arab Saudi (30,6 per 10.000 artikel), Pakistan (28,1), Rusia, dan Tiongkok. Malaysia berada di angka 17,2.
 :::
 
 
 ## Sebelum Terbit {.text-slide-bg}
 
 ::: {.lead}
-Praktik dari investigasi yang [direkomendasikan](https://www.theopennotebook.com/2022/05/31/reporting-on-retractions/) [Charles Piller](https://charlespiller.com/) dan [Van Noorden](https://muckrack.com/richvn).
+Praktik yang dirangkum [Pawar (2022)](https://www.theopennotebook.com/2022/05/31/reporting-on-retractions/) dari pengalaman jurnalis [Charles Piller](https://charlespiller.com/) dan [Richard Van Noorden](https://muckrack.com/richvn):
 :::
 
 ::: {.content-box}
 - Kirim semua temuan ke pihak yang diinvestigasi dalam satu *email*, bisa dalam bentuk [*no-surprise email*](https://www.theopennotebook.com/2018/12/11/how-to-conduct-difficult-interviews/).
-- Beri waktu yang cukup bagi pihak tersebut merespons.
+- Beri waktu yang cukup bagi pihak tersebut untuk merespons.
 - Tegaskan bahwa tidak merespons tidak akan menghentikan publikasi.
 - Selalu verifikasi klaim sumber secara independen, termasuk sumber yang identitasnya Anda lindungi.
 :::
@@ -828,7 +842,7 @@ Praktik dari investigasi yang [direkomendasikan](https://www.theopennotebook.com
 ## Lengkapi dengan Akuntabilitas {.columns-slide}
 
 ::: {.lead}
-Berita yang berhenti di deskripsi soal skandalnya berisiko menimbulkan sinisme publik. Minimalisasi risiko ini dengan melengkapi liputan dengan apa yang sudah berubah, atau apa yang harus tetapi belum dilakukan.
+Berita yang berhenti di deskripsi soal skandalnya berisiko menimbulkan sinisme publik. Minimalkan risiko ini dengan melengkapi liputan menggunakan informasi tentang apa yang sudah berubah, atau apa yang harus, tetapi belum, dilakukan.
 :::
 
 ::: {.columns-area style="grid-template-columns: repeat(2, 1fr);"}
@@ -857,7 +871,7 @@ Pertanyaan "lalu apa yang dilakukan institusinya?" sering menjadi bagian terpent
 :::
 
 
-## *Toolkit* yang Menjadi Bekal Anda {.columns-slide}
+## Tiga *Toolkit* Utama Sebagai Bekal {.columns-slide}
 
 ::: {.columns-area}
 ::: {.col-item}
@@ -871,7 +885,7 @@ Gunakan *checklist* sebelum memutuskan meliput sebuah temuan penelitian.
 ::: {.col-item}
 [<i class="fa-solid fa-user-check"></i>]{.col-icon}
 
-### *Trust, but verify* ([Pawar, 2022](https://www.theopennotebook.com/2022/05/31/reporting-on-retractions/))
+### *Trust, but verify* ([Van Noorden, dalam Pawar, 2022](https://www.theopennotebook.com/2022/05/31/reporting-on-retractions/))
 
 Selalu cek silang dengan mewawancarai pakar independen di setiap liputan.
 :::
@@ -888,17 +902,33 @@ Selalu sebut siapa yang menemukan masalahnya (kalau mereka bersedia disebut), su
 ## Kesimpulan
 
 ::: {.lead}
-Sains tidak bebas dari kesalahan. Yang membuatnya layak dipercaya adalah adanya prosedur dan sistem untuk memeriksa dan memperbaikinya.
+Sains tidak bebas dari kesalahan. Yang membuatnya layak dipercaya adalah **adanya prosedur dan sistem** untuk **memeriksa** dan **memperbaikinya**.
 :::
 
 ::: {.incremental}
 1. **Krisis replikasi memang terjadi.** Banyak temuan, termasuk yang terbit di jurnal top, tidak bertahan saat dicoba ulang. Sebagian bahkan tidak bisa direka ulang dari data aslinya.
-2. **Sains terbuka membantu, tapi ada batasnya.** *Pre-registration*, *Registered Reports*, dan data terbuka mengubah perilaku peneliti sejauh ada yang memeriksanya. Tetapi, ketiganya tidak menghentikan kecurangan akademik yang disertai dengan niat jahat.
+2. **Sains terbuka membantu, tetapi ada batasnya.** *Preregistration*, *Registered Reports*, dan data terbuka mengubah perilaku peneliti sejauh ada yang memeriksanya. Tetapi, ketiganya tidak menghentikan kecurangan akademik yang disertai dengan niat jahat.
 3. **Prestise bukan ukuran mutu.** Cek status publikasi artikel ilmiah, desain dan ukuran sampelnya, tanda-tanda kesalahan, dan tanyakan pendapat pakar yang independen.
 4. **Beritakan kesalahan secara proporsional.** Arahkan kritik ke sasaran yang tepat, pakai istilah yang tepat, sertakan angka penyebut, dan tutup dengan tindakan apa yang dilakukan, atau kebijakan apa yang berubah.
 :::
 
+## Mohon Bantuan untuk Mengisi Survei Evaluasi
+
+::: {.lead}
+Mohon luangkan waktu ~5 menit untuk memberikan evaluasi atas materi yang telah disampaikan. Survei evaluasi ini sifatnya anonim, tidak ada informasi pribadi yang ditanyakan. Terima kasih banyak atas bantuannya!😊
+:::
+
+::: {style="text-align: center; font-size: 2em;"}
+[Klik di sini](https://www.soscisurvey.de/fb-workshop-amel/) atau scan QR *code* di bawah ini. 
+:::
+
+![](libs/qrcode.png){fig-align="center"}
+
 ## Referensi {.text-slide-bg .scrollable}
+
+::: {.lead}
+Laman referensi ini dapat di-*scroll* ke bawah.
+:::
 
 ::: {.content-box style="font-size: 0.5em;"}
 **Artikel ilmiah dan laporan riset**
@@ -906,7 +936,7 @@ Sains tidak bebas dari kesalahan. Yang membuatnya layak dipercaya adalah adanya 
 - Baker, M. (2016). [1,500 scientists lift the lid on reproducibility](https://doi.org/10.1038/533452a). *Nature, 533*(7604), 452–454.
 - Barba, L. A. (2018). [Terminologies for reproducible research](https://arxiv.org/abs/1802.03311). *arXiv*, 1802.03311.
 - Bem, D. J. (2011). [Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect](https://doi.org/10.1037/a0021524). *Journal of Personality and Social Psychology, 100*(3), 407–425.
-- Bottesini, J. G., Aschwanden, C., Rhemtulla, M., & Vazire, S. (2023). [How do science journalists evaluate psychology research?](https://doi.org/10.1177/25152459231183912) *Advances in Methods and Practices in Psychological Science, 6*(3).
+- Bottesini, J. G., Aschwanden, C., Rhemtulla, M., & Vazire, S. (2023). [How do science journalists evaluate psychology research?](https://doi.org/10.1177/25152459231183912) *Advances in Methods and Practices in Psychological Science, 6*(3), 25152459231183912.
 - Brembs, B., Button, K., & Munafò, M. (2013). [Deep impact: Unintended consequences of journal rank](https://doi.org/10.3389/fnhum.2013.00291). *Frontiers in Human Neuroscience, 7*, 291.
 - Camerer, C. F., dkk. (2016). [Evaluating replicability of laboratory experiments in economics](https://doi.org/10.1126/science.aaf0918). *Science, 351*(6280), 1433–1436.
 - Camerer, C. F., dkk. (2018). [Evaluating the replicability of social science experiments in *Nature* and *Science* between 2010 and 2015](https://doi.org/10.1038/s41562-018-0399-z). *Nature Human Behaviour, 2*(9), 637–644.
@@ -922,7 +952,7 @@ Sains tidak bebas dari kesalahan. Yang membuatnya layak dipercaya adalah adanya 
 - Hardwicke, T. E., dkk. (2018). [Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal *Cognition*](https://doi.org/10.1098/rsos.180448). *Royal Society Open Science, 5*(8), 180448.
 - Herndon, T., Ash, M., & Pollin, R. (2014). [Does high public debt consistently stifle economic growth? A critique of Reinhart and Rogoff](https://doi.org/10.1093/cje/bet075). *Cambridge Journal of Economics, 38*(2), 257–279.
 - John, L. K., Loewenstein, G., & Prelec, D. (2012). [Measuring the prevalence of questionable research practices with incentives for truth telling](https://doi.org/10.1177/0956797611430953). *Psychological Science, 23*(5), 524–532.
-- Merton, R. K. (1973). [The normative structure of science](https://archive.org/details/sociologyofscien0000mert/page/n5/mode/2up). Dalam *The sociology of science* (hlm. 267–278). University of Chicago Press. (Karya asli terbit 1942)
+- Merton, R. K. (1973). [The normative structure of science](https://archive.org/details/sociologyofscien0000mert/page/n5/mode/2up). Dalam N. W. Storer (Ed.), *The sociology of science: Theoretical and empirical investigations* (hlm. 267–278). University of Chicago Press. (Karya asli terbit 1942)
 - Miske, O., dkk. (2026). [Investigating the reproducibility of the social and behavioural sciences](https://doi.org/10.1038/s41586-026-10203-5). *Nature, 652*(8108), 126–134.
 - Naudet, F., dkk. (2018). [Data sharing and reanalysis of randomized controlled trials in leading biomedical journals with a full data sharing policy: Survey of studies published in *The BMJ* and *PLOS Medicine*](https://doi.org/10.1136/bmj.k400). *BMJ, 360*, k400.
 - Nielsen, M., & Qiu, K. (2022). [A vision of metascience: An engine of improvement for the social processes of science](https://scienceplusplus.org/metascience/). Science++.
@@ -931,8 +961,8 @@ Sains tidak bebas dari kesalahan. Yang membuatnya layak dipercaya adalah adanya 
 - Open Science Collaboration. (2015). [Estimating the reproducibility of psychological science](https://doi.org/10.1126/science.aac4716). *Science, 349*(6251), aac4716.
 - Pietschnig, J., Siegel, M., Eder, J. S. N., & Gittler, G. (2019). [Effect declines are systematic, strong, and ubiquitous: A meta-meta-analysis of the decline effect in intelligence research](https://doi.org/10.3389/fpsyg.2019.02874). *Frontiers in Psychology, 10*, 2874.
 - Reinhart, C. M., & Rogoff, K. S. (2010). [Growth in a time of debt](https://doi.org/10.3386/w15639) (NBER Working Paper No. 15639). National Bureau of Economic Research.
-- Schapals, A. K., Riedlinger, M., Montaña-Niño, S., & Rednikin, A. (2026). [Shining light on "dark science": Mapping the field of science watchdog journalism](https://doi.org/10.17645/mac.12392). *Media and Communication, 14*.
-- Scheel, A. M., Schijen, M. R. M. J., & Lakens, D. (2021). [An excess of positive results: Comparing the standard psychology literature with Registered Reports](https://doi.org/10.1177/25152459211007467). *Advances in Methods and Practices in Psychological Science, 4*(2).
+- Schapals, A. K., Riedlinger, M., Montaña-Niño, S., & Rednikin, A. (2026). [Shining light on "dark science": Mapping the field of science watchdog journalism](https://doi.org/10.17645/mac.12392). *Media and Communication, 14*, 12392.
+- Scheel, A. M., Schijen, M. R. M. J., & Lakens, D. (2021). [An excess of positive results: Comparing the standard psychology literature with Registered Reports](https://doi.org/10.1177/25152459211007467). *Advances in Methods and Practices in Psychological Science, 4*(2), 25152459211007467.
 - Seglen, P. O. (1997). [Why the impact factor of journals should not be used for evaluating research](https://doi.org/10.1136/bmj.314.7079.497). *BMJ, 314*(7079), 497.
 - Serghiou, S., Marton, R. M., & Ioannidis, J. P. A. (2021). [Media and social media attention to retracted articles according to Altmetric](https://doi.org/10.1371/journal.pone.0248625). *PLOS ONE, 16*(5), e0248625.
 - Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). [False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant](https://doi.org/10.1177/0956797611417632). *Psychological Science, 22*(11), 1359–1366.
@@ -946,21 +976,22 @@ Sains tidak bebas dari kesalahan. Yang membuatnya layak dipercaya adalah adanya 
 
 - Bhattacharjee, Y. (2013, 26 April). [The mind of a con man](https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html). *The New York Times Magazine*.
 - Center for Open Science. (2026). [Large-scale collaboration releases new findings on research credibility](https://www.cos.io/about/news/large-scale-collaboration-releases-new-findings-on-research-credibility) [rilis pers SCORE].
+- The Center for Scientific Integrity. (2026, 4 Agustus). [2026 winners of the CTRL-Z Award for courage in retracting one's own work](https://centerforscientificintegrity.org/2026/08/04/2026-winners-ctrl-z-award-courage-retracting-own-work/).
 - Data Colada. (2026, 31 Agustus). [[138] Artificial deadlines (part 1): Evidence of fraud in an influential study about procrastination](https://datacolada.org/138).
+- Davey, M., Kirchgaessner, S., & Boseley, S. (2020, 3 Juni). [Surgisphere: Governments and WHO changed Covid-19 policy based on suspect data from tiny US company](https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine). *The Guardian*.
 - Else, H. (2021). ['Tortured phrases' give away fabricated research papers](https://doi.org/10.1038/d41586-021-02134-0). *Nature, 596*(7872), 328–329.
 - Jones, N. (2026). [Half of social-science studies fail replication test in years-long project](https://doi.org/10.1038/d41586-026-00955-5). *Nature*.
-- Mehra, M. R., Desai, S. S., Ruschitzka, F., & Patel, A. N. (2020). [Retraction—Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: A multinational registry analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31528-2/fulltext). *The Lancet, 395*(10240), 1820.
+- Mehra, M. R., Ruschitzka, F., & Patel, A. N. (2020). [Retraction—Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: A multinational registry analysis](https://doi.org/10.1016/S0140-6736(20)31324-6). *The Lancet, 395*(10240), 1820.
 - Pawar, P. (2022, 31 Mei). [Reporting on retractions](https://www.theopennotebook.com/2022/05/31/reporting-on-retractions/). *The Open Notebook*.
 - Pickett, M. (2018, 11 Desember). [How to conduct difficult interviews](https://www.theopennotebook.com/2018/12/11/how-to-conduct-difficult-interviews/). *The Open Notebook*.
 - Rochmyaningsih, D. (2018, 27 Juli). [Did a study of Indonesian people who spend most of their days under water violate ethical rules?](https://www.sciencemagazinedigital.org/sciencemagazine/27_july_2018/MobilePagedArticle.action?articleId=1412604) *Science*.
 - ScienceWatchdog.id. (2025, 18 Oktober). [The rise of scientific sleuths: Ensuring research integrity](https://sciencewatchdog.id/2025/10/18/the-rise-of-scientific-sleuths-ensuring-research-integrity/).
 - Somad, A., dkk. (2024, 22 April). [Main catut nama sampai daur ulang artikel ilmiah](https://jaring.id/main-catut-nama-sampai-daur-ulang-artikel-ilmiah/). *Jaring.id*, kolaborasi dengan *Tempo* dan *The Conversation Indonesia*.
-- The Center for Scientific Integrity. (2026, 4 Agustus). [2026 winners of the CTRL-Z Award for courage in retracting one's own work](https://centerforscientificintegrity.org/2026/08/04/2026-winners-ctrl-z-award-courage-retracting-own-work/).
 - Van Noorden, R. (2023). [More than 10,000 research papers were retracted in 2023 — a new record](https://doi.org/10.1038/d41586-023-03974-8). *Nature, 624*(7992), 479–481.
 - Zein, R. A. (2018, 16 November). [Efek kobra, dosen Indonesia terobsesi pada indeks Scopus dan praktik tercela menuju universitas kelas dunia](https://theconversation.com/efek-kobra-dosen-indonesia-terobsesi-pada-indeks-scopus-dan-praktik-tercela-menuju-universitas-kelas-dunia-105808). *The Conversation Indonesia*.
 - Zein, R. A. (2024, 15 Mei). [Mengenal cara kerja 'paper mill': Pabrik artikel ilmiah yang beroperasi seperti kartel di film-film](https://theconversation.com/mengenal-cara-kerja-paper-mill-pabrik-artikel-ilmiah-yang-beroperasi-seperti-kartel-di-film-film-228784). *The Conversation Indonesia*.
-- Kasus Wakefield dan Surgisphere: [wawancara Brian Deer di *The Times*](http://archive.today/2025.09.24-144220/https://www.thetimes.com/culture/books/article/andrew-wakefield-interview-mmr-autism-vaccine-brian-deer-b3ftnwmfz) (arsip); [liputan Catherine Offord di *The Scientist*](https://www.the-scientist.com/tag/surgisphere); [linimasa *ABC News*](https://abcnews.com/Health/timeline-tracking-trump-alongside-scientific-developments-hydroxychloroquine/story?id=72170553) tentang hydroxychloroquine
-- Kasus Reinhart & Rogoff: [*The Conversation* (2013)](https://theconversation.com/economists-an-excel-error-and-the-misguided-push-for-austerity-13584); [*Business Insider* (2018)](https://www.businessinsider.com/austerity-has-damaged-europe-vs-us-gdp-growth-2018-11)
+- Kasus Wakefield dan Surgisphere: [wawancara Brian Deer di *The Times*](http://archive.today/2025.09.24-144220/https://www.thetimes.com/culture/books/article/andrew-wakefield-interview-mmr-autism-vaccine-brian-deer-b3ftnwmfz) (arsip); [liputan Catherine Offord di *The Scientist*](https://www.the-scientist.com/tag/surgisphere); [linimasa *ABC News*](https://abcnews.com/Health/timeline-tracking-trump-alongside-scientific-developments-hydroxychloroquine/story?id=72170553) tentang *hydroxychloroquine*
+- Kasus Reinhart dan Rogoff: [*The Conversation* (2013)](https://theconversation.com/economists-an-excel-error-and-the-misguided-push-for-austerity-13584); [*Business Insider* (2018)](https://www.businessinsider.com/austerity-has-damaged-europe-vs-us-gdp-growth-2018-11)
 - Kasus kalung *eucalyptus*: [UGM](https://ugm.ac.id/id/berita/19671-guru-besar-ugm-sebut-kalung-eucalyptus-belum-terbukti-sebagai-anti-covid-19/); [*Bisnis.com* (2020)](https://ekonomi.bisnis.com/read/20200704/99/1261556/serius-buat-kalung-antivirus-corona-mentan-gandeng-produsen-cap-lang); [*iNews*](https://www.inews.id/news/nasional/balitbangtan-kalung-anticorona-butuh-uji-klinis-izin-edarnyatergolong-jamu)
 - Kasus *ivermectin*: [BPOM](https://www.pom.go.id/berita/badan-pom-serahkan-persetujuan-pelaksanaan-uji-klinik-ivermectin); [*CNN Indonesia* (2021)](https://www.cnnindonesia.com/ekonomi/20210621185309-92-657419/erick-thohir-obat-terapi-corona-ivermectin-dapat-izin-bpom); [*Antara Jabar*](https://jabar.antaranews.com/berita/283810/bpom-sebut-data-uji-klinik-ivermectin-untuk-pengobatan-covid-19-belum-tersedia); [*Kabar24* (2021)](https://kabar24.bisnis.com/read/20210718/15/1419025/produsen-ivermectin-pt-harsen-laboratories-sampaikan-permohonan-maaf-ini-isinya)
 - Kasus suku Bajau: [liputan *Science* (2018)](https://www.science.org/content/article/indonesian-divers-have-evolved-bigger-spleens-hunt-underwater) tentang studi adaptasi penyelam Bajau
@@ -969,7 +1000,7 @@ Sains tidak bebas dari kesalahan. Yang membuatnya layak dipercaya adalah adanya 
 **Regulasi, basis data, dan alat**
 
 - Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 39 Tahun 2021 tentang [Integritas Akademik dalam Menghasilkan Karya Ilmiah](https://www.peraturan.go.id/files/bn1363-2021.pdf).
-- [Retraction Watch Database](https://retractiondatabase.org), [PubPeer](https://pubpeer.com), [statcheck](http://statcheck.io), [Academ-AI](https://academ-ai.info/), [Citely](https://citely.ai), [ImageTwin](https://imagetwin.ai/)
+- [Retraction Watch Database](https://retractiondatabase.org), [PubPeer](https://pubpeer.com), [statcheck](https://statcheck.io), [Academ-AI](https://academ-ai.info/), [Citely](https://citely.ai), [ImageTwin](https://imagetwin.ai/)
 - Pengawas integritas riset: [Plagio SOS](https://pluralidadz.com/author/plagiosos/) (Amerika Latin), [India Research Watch](https://irw.co.in/), [Selisik Integritas Akademik](https://theconversation.com/topics/selisik-integritas-akademis-155172) (Jaring.id, Tempo, The Conversation Indonesia), [ScienceWatchdog.id](https://sciencewatchdog.id/)
 - Center for Open Science: [Registered Reports](https://www.cos.io/initiatives/registered-reports) dan [Open Science Badges](https://www.cos.io/initiatives/badges)
 - [PUBLISSO: *preprint* dan *postprint*](https://www.publisso.de/en/advice/publishing-advice-faqs/preprint-and-postprint)
@@ -982,7 +1013,7 @@ Sains tidak bebas dari kesalahan. Yang membuatnya layak dipercaya adalah adanya 
 ::: {.closing-contact-box}
 **Dr. Rizqy Amelia Zein**\
 Center for Advanced Internet Studies (CAIS) & Universitas Airlangga\
-E-mail: [amelia.zein@cais-research.de](mailto:amelia.zein@cais-research.de) or [amelia.zein@psikologi.unair.ac.id](mailto:amelia.zein@psikologi.unair.ac.id) · Homepage: [rameliaz.github.io](https://rameliaz.github.io/)
+E-mail: [amelia.zein@cais-research.de](mailto:amelia.zein@cais-research.de) atau [amelia.zein@psikologi.unair.ac.id](mailto:amelia.zein@psikologi.unair.ac.id) · Homepage: [rameliaz.github.io](https://rameliaz.github.io/)
 :::
 
 ::: {.closing-cais-logo}
